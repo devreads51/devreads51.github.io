@@ -47,7 +47,7 @@ thought:
 # Plugin: jekyll-assets
 assets:
   dirname: /assets
-  baseurl: /nandomoreira-jekyll-theme/assets/ # change to /assets/
+  baseurl: /assets/
   sources:
     - assets/images
     - assets/fonts
