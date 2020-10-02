@@ -1,11 +1,11 @@
 {
-  "name": "nandomoreira.me",
+  "name": "devreads.sandordargo.com",
   "version": "1.0.0",
-  "homepage": "https://github.com/nandomoreirame/nandomoreirame.github.io",
+  "homepage": "https://github.com/devreads51/devreads51.github.io",
   "private": true,
   "license": "MIT",
   "authors": [
-    "Fernando Moreira <nandomoreira.me@gmail.com>"
+    "Sandor Dargo <sandor.dargo@gmail.com>"
   ],
   "dependencies": {
     "classie": "~1.0.1",

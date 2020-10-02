@@ -2,13 +2,13 @@ permalink: /:title/
 markdown: kramdown
 highlighter: pygments
 
-paginate: 2 #6
+paginate: 10
 comments: true
 paginate_path: "/page/:num"
 
 baseurl: ""
 domain_name: devreads.sandordargo.com
-# google_analytics: UA-52446115-1
+google_analytics: UA-89625019-1
 
 source: source
 destination: _site
@@ -19,25 +19,23 @@ destination: _site
 # Details for the RSS feed generator
 name: Sandor Dargo
 title: The Best Developer Reads
-description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
-meta_description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
-meta_keywords: "site, website, loja virtual, lojas virtuais, e-commerce, wordpress, frontend, front-end, html5, css3, javascript, jquery, seo, otimizacao, performance"
+description: "The best books for software developers not only about software development"
+meta_description: "The best books for software developers not only about software development"
+meta_keywords: "site, website, book, books, development, software, improvement, learn, learning"
 url: https://devreads.sandordargo.com/
 production_url: https://devreads.sandordargo.com/
 repo: https://github.com/devreads51/devreads51.github.io
-disqus_shortname: "nandothemes"
+disqus_shortname: "sandordargo-github-io"
 rss_path: source/
 author:
-  name: Fernando Moreira
+  name: Sandor Dargo
   image: /assets/images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: http://nandomoreira.me
-  facebook: http://facebook.com/fernando.dev
-  twitter: http://twitter.com/nandomoreirame
-  instagram: http://instagram.com/nandomoreira.me
-  github: http://github.com/nandomoreirame
-  linkedin: http://linkedin.com/in/nandomoreirame
-  bio: "Desenvolvedor Front-end/Wordpress entusiasta de performance, design responsivo e usabilidade, sempre em busca do melhor projeto e de um bom café."
+  email: sandor.dargo@gmail.com
+  url: https://www.sandordargo.com
+  twitter: https://twitter.com/SandorDargo
+  github: https://github.com/sandordargo/
+  linkedin: https://www.linkedin.com/in/sandor-dargo/
+  bio: "C++ Developer, writer, speaker, traveller, happy father of two"
 
 # thought
 thought:

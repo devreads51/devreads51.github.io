@@ -1,13 +1,16 @@
 ---
 layout: page
 title: About
-description: "This is a Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com"
+description: "On this site you'll find the best books you can read as a developer"
 permalink: /about/
 slug: about
 ---
+On this site you'll find the best books you can read as a developer. Mostly about software development, but not only.
 
-This is a Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+While software development is important just like being better in our craft, life is not only about that, hence you'll find other kinds of books here.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Besides, getting better as a person, improving your learning skills or getting more resilient is at least as important as knowing how to implement a binary tree at a coding interview.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+In case, you'd like to share your book review get in touch with me at sandor dot dargo at gmail for com.
+
+Happy reading!
