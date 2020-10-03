@@ -5,6 +5,7 @@ date: 2017-9-22
 category: books
 tags: [books, coders at work]
 header: "Recently I started to read <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> from <a href=\"https://twitter.com/peterseibel\">Peter Seibel</a>. Basically it is a huge book of long interviews with well-known, established developers. First I wanted to write a blog post about the whole book but in the second chapter I decided it'd be better to write a short memo after each chapter. "
+canonical_url: "https://www.sandordargo.com/blog/2017/09/22/coders-at-work-jamie-zawinski"
 ---
 
 The first guy interviewed by Seibel is [Jamie Zawinski](https://www.jwz.org/about.html). In case you don't know him, he's one of the important early developers of Netscape. Anyway you can look up more information about him wherever. After all we are living in the era of Internet with constant information oversdose.

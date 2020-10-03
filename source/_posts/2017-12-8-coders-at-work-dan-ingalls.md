@@ -5,6 +5,7 @@ date: 2017-12-8
 category: books
 tags: [books, coders at work]
 header: "The tenth guy interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"https://twitter.com/daningalls?lang=en\">Dan Ingalls</a>, according to Seibel, the \"mother of Smalltalk\"."
+canonical_url: "https://www.sandordargo.com/blog/2017/12/08/coders-at-work-dan-ingalls"
 ---
 
 Ingalls was originally a physicist. He went to Harvard where he took a course on Fortran and it pledged his fate. 

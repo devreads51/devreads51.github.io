@@ -5,6 +5,7 @@ date: 2018-11-21
 category: books
 tags: [books, finance]
 excerpt_separator: <!--more-->
+canonical_url: "https://www.sandordargo.com/blog/2018/11/21/ramit-iwthtb"
 ---
 [In his first book](https://amzn.to/2vNKTka), [Ramit Sethi](https://www.iwillteachyoutoberich.com/) shares his own vision about personal finance. It's not just yet another book on how to spend less and save more money as he doesn't believe in a frugal life. Besides, he doesn't just share his two cents but he also gives some practical procedures and scripts to follow.
 <!--more-->

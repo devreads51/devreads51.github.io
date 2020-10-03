@@ -5,6 +5,7 @@ date: 2019-7-31
 category: books
 tags: [books, dev, management, change]
 excerpt_separator: <!--more-->
+canonical_url: "https://www.sandordargo.com/blog/2019/07/31/driving-technical-change"
 ---
 If you don't have initiatives, if you don't like to nor want to change the status quo, if you don't believe that you can or should have an impact this is not your book.
 <!--more-->

@@ -5,6 +5,7 @@ date: 2019-8-21
 category: books
 tags: [books, negotiation]
 excerpt_separator: <!--more-->
+canonical_url: "https://www.sandordargo.com/blog/2019/08/21/never-split-the-difference"
 ---
 [Never split the difference](https://amzn.to/2z1aYNu) is a great book on negotiations by a former international hostage negotiator from FBI. [Christopher Voss](https://twitter.com/VossNegotiation?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) shows us through various stories how and why hostage negotiation strategies changed over time at FBI where he was both a lead and an instructor. While at many points I felt that he was sharing stories with a too vehement pride - maybe it's more a cultural thing - ha also shared big failures.
 <!--more-->

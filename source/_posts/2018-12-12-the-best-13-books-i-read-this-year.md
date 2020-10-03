@@ -5,6 +5,7 @@ date: 2018-12-12
 category: books
 tags: [books, cpp, self learning, hobby]
 excerpt_separator: <!--more-->
+canonical_url: "https://www.sandordargo.com/blog/2018/12/12/the-best-13-books-i-read-this-year"
 ---
 One of my favourite hobbies is reading. Even as a father of two small children, I try to find some time every day to read either before the others wake up or after they went to sleep or sometimes at lunchtime on the bank of a nearby creek.
 <!--more-->

@@ -5,6 +5,7 @@ date: 2018-4-18
 category: books
 tags: [books, clean code, architecture]
 header: "I like the books and most of the videos created by <a href=\"https://twitter.com/unclebobmartin\">Uncle Bob</a>. Maybe sometimes they are a bit too simplistic, but they help to provide a better understanding of how you should write good quality code. And if you find that a topic is not deeply analyzed enough, you can still explore it later on your own."
+canonical_url: "https://www.sandordargo.com/blog/2018/04/18/uncle-bob-clean-architecture"
 ---
 
 I've read quite a few books about clean coding principles or about good coding practices. What I missed a bit is more about software architecture. Hence I enqueued some books about that topic and I started to read them recently.

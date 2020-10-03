@@ -5,6 +5,7 @@ date: 2020-3-4
 category: books
 tags: [books, java, beginners, watercooler]
 excerpt_separator: <!--more-->
+canonical_url: "https://www.sandordargo.com/blog/2020/03/04/java-by-comparison"
 ---
 I'm not a Java developer - anymore - yet I find that a big part of [this book](https://amzn.to/2Ie6E28) can be useful for any junior programmer. Maybe not only for them, as the book has elements that are always useful to be reminded to. In addition, it gives you ideas on how and what to teach to less experienced people.
 <!--more-->

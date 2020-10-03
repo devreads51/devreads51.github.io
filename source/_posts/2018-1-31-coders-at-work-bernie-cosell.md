@@ -5,6 +5,7 @@ date: 2018-1-31
 category: books
 tags: [books, coders at work]
 header: "The 14th and last but one person interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"http://www.codersatwork.com/bernie-cosell.html\">Bernie Cosell</a>, one the trio who wrote the software the first Interface Message Processors (IMPs) of ARPANET"
+canonical_url: "https://www.sandordargo.com/blog/2018/01/31/coders-at-work-bernie-cosell"
 ---
 It was inspiring to read about some his thoughts which appear in many modern programming books.
 

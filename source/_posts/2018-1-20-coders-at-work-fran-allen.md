@@ -5,6 +5,7 @@ date: 2018-1-20
 category: books
 tags: [books, coders at work]
 header: "The 13th person and the first woman interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"https://en.wikipedia.org/wiki/Frances_E._Allen\">Fran Allen</a>, the life-long IBM computer scientist, winner of the Turing Award."
+canonical_url: "https://www.sandordargo.com/blog/2018/01/20/coders-at-work-fran-allen"
 ---
 How famous computer scientists emerge? She wanted to be a math teacher, but in order to pay her student loan, she had to take a job. She took a temporary programming job at IBM to teach the new Fortran to IBM people. Then she stayed there for 45 years.
 

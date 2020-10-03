@@ -6,6 +6,7 @@ category: other
 tags: [vacations, books]
 header: "Few days ago I returned from the longest holidays I have ever had. With my wife and my one year old daughter we went to Japan for two and a half weeks and we stopped for a few days in Dubai to see around and go to the desert!
 "
+canonical_url: "https://www.sandordargo.com/blog/2017/04/12/returned-from-japan"
 ---
 It was fantastic and tiring. And finally I fulfilled a 5 year old promise of mine to my wife that I'd go to Japan with her.
 

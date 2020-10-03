@@ -5,6 +5,7 @@ date: 2019-10-23
 category: books
 tags: [books, self-improvement, career]
 excerpt_separator: <!--more-->
+canonical_url: "https://www.sandordargo.com/blog/2019/10/23/smartcuts"
 ---
 [Smartcuts](https://amzn.to/2YuJdMx) covers how to stimulate - mostly - professional development. Hence its subtitle is _How Hackers, Innovators and Icons Accelerate Success_.
 

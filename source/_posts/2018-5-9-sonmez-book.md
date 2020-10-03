@@ -5,6 +5,7 @@ date: 2018-5-9
 category: books
 tags: [books, career]
 header: "This latest book of <a href=\"https://simpleprogrammer.com/\">John Sonmez</a> is an admirable result of self-discipline. The product of an author/programmer who doesn't just preach about doing things, but he shows us the way by example. Maybe the form of his book is unconventional, but he wrote it in a way that would fit his ways of doing things."
+canonical_url: "https://www.sandordargo.com/blog/2018/05/09/sonmez-book"
 ---
 You might have read my [post about how I organize my activities](/blog/2018/02/28/setting-yourself-up-to-succeed) and I mentioned a kind of a kanban board I use, that I took from [Sonmez](https://simpleprogrammer.com/). His [Career Guide](http://amzn.to/2HE30fK) is organized into 60 chapters on almost 800 pages so that he could easily broke his tasks down into daily pomodori fitting his kanban board.
 

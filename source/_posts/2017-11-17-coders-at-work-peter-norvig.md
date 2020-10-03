@@ -5,6 +5,7 @@ date: 2017-11-17
 category: books
 tags: [books, coders at work]
 header: "The eighth guy interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"http://norvig.com/\">Peter Norvig</a>, director of research at <a href=\"https://www.google.com/\">Google</a>."
+canonical_url: "https://www.sandordargo.com/blog/2017/11/17/coders-at-work-peter-norvig"
 ---
 I had a discussion a few days ago with a very good friend of mine about different topics including education. So far I've lived in two countries for a considerable time - Hungary and France - and I'm not happy with the education in general in any of those countries. There are simply too many autocratic teachers who don't even want to teach how to think, they just try to impose their own ways of seeing things. If they make a mistake and some smart students recognize those they attack and punish. Thanks, but no, thanks.
 

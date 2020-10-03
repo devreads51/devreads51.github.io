@@ -5,6 +5,7 @@ date: 2017-10-6
 category: books
 tags: [books, coders at work]
 header: "The second guy interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"https://twitter.com/bradfitz\">Brad Fitzpatrick</a>. Here is a small reflection on this chapter."
+canonical_url: "https://www.sandordargo.com/blog/2017/10/06/coders-at-work-brad-fitzpatrick"
 ---
 I had the feeling from the very beginning that this guy is a real badass. Someone who will hack the companies to get what they really offer. Not that they wanted to offer, but that they really do through the holes in their rules. I can relate ourselves to him, I think we often do something like that with [Mummy Sherpa](http://mummysherpa.com/).
 

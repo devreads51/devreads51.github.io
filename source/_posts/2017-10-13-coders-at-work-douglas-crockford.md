@@ -5,6 +5,7 @@ date: 2017-10-13
 category: books
 tags: [books, coders at work]
 header: "The third person interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"http://crockford.com/\">Douglas Crockford</a>. Here is a small reflection on this chapter."
+canonical_url: "https://www.sandordargo.com/blog/2017/10/13/coders-at-work-douglas-crockford"
 ---
 At the moment of the creation of the book he was working for Yahoo!, now he is with Paypal. The one thing that has not changed is that he is still a senior JavaScript architect. He is also the guy who invented JSON. The latter one is something I like - JavaScript not that much. But maybe it's just because of my lack of knowledge.
 

@@ -5,6 +5,7 @@ date: 2017-10-20
 category: books
 tags: [books, coders at work]
 header: "The fourth guy interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is yet another JavaScript guy. In fact, the JavaScript guy: <a href=\"https://brendaneich.com/\">Brendan Eich</a>. Here is a small reflection on this chapter."
+canonical_url: "https://www.sandordargo.com/blog/2017/10/20/coders-at-work-brendan-eich"
 ---
 At a certain point, this guy really reminded me to a former colleague of mine. Eich said that "a blue-collar language like Java shouldn't have a crazy generic system because blue-collar people can't figure out what the hell the syntax means with covariant, contravariant type constraints." This sounds extremely elitist.
 

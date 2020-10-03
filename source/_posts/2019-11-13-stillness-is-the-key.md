@@ -5,6 +5,7 @@ date: 2019-11-13
 category: books
 tags: [books, watercooler, stoic]
 excerpt_separator: <!--more-->
+canonical_url: "https://www.sandordargo.com/blog/2019/11/13/stillness-is-the-key"
 ---
 _[Stillness is the key](https://amzn.to/2JUtdKD)_ is the new book of [Ryan Holiday](https://ryanholiday.net/) that just came out about a month ago and it finishes his trilogy about... I wanted to write that about stoic philosophy, but it's not really the truth. The author doesn't write only about stoicism, but much more about ancient pearls of wisdom and philosophy.
 <!--more-->

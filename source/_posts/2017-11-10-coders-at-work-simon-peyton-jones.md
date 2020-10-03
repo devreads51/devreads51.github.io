@@ -5,6 +5,7 @@ date: 2017-11-10
 category: books
 tags: [books, coders at work]
 header: "The seventh guy interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"https://github.com/simonpj\">Simon Peyton Jones</a>, one of the fathers of <a href=\"https://www.haskell.org/\">Haskell</a>. Here is a small reflection on this chapter."
+canonical_url: "https://www.sandordargo.com/blog/2017/11/10/coders-at-work-simon-peyton-jones"
 ---
 I think it's always interesting to hear from famous and intelligent people about their weaknesses. Peyton Jones said that math was too hard for him at the university so he decided not to graduate in it. It's at least as interesting to hear how he didn't want to finish so easy. He felt like doing CS would have been cheating as he was already involved in a lot of CS related work, so he decided to finish university in electrical sciences - that would be electrical engineering in the US.
 

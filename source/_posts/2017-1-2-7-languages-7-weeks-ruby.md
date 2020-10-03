@@ -5,6 +5,7 @@ date: 2017-1-2
 category: books
 tags: [7languages, ruby, books]
 header: "I decided to read <a href=\"http://amzn.to/2xV90jo\">Bruce Tate's Seven Languages in Seven Weeks</a> and I just finished with the first one: Ruby!"
+canonical_url: "https://www.sandordargo.com/blog/2017/01/02/7-languages-7-weeks-ruby"
 ---
 
 

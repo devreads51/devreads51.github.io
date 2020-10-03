@@ -5,6 +5,7 @@ date: 2018-6-27
 category: books
 tags: [books, agile, design]
 header: "The subjects covered in this book stand somewhere between the topics of <a href=\"https://amzn.to/2qSewxm\">Code Complete</a> and <a href=\"/blog/2018/06/13/architecture-patterns\">Patterns of Enterprise Application Architecture</a>. Maybe if I wanted to compare it to another book I shall choose Clean Architecture. However, as I don't consider myself an authority to judge, I will not compare them."
+canonical_url: "https://www.sandordargo.com/blog/2018/06/27/essential-skills-for-the-agile-developer"
 ---
 I only wanted to mention these books so that you can see what is covered in [Essential Skills for the Agile Developer](https://amzn.to/2qSbnxo). It will not go into low-level details about what is the best way to write a for loop, but it will not cover design patterns in details either. On the other hand, it will give you some practical pieces of advice, some guidelines to follow in order to design your application, your classes and even methods. Or when to reach out for the GoF book.
 

@@ -5,6 +5,7 @@ date: 2020-1-22
 category: books
 tags: [watercooler, books, cleancode, refactoring]
 excerpt_separator: <!--more-->
+canonical_url: "https://www.sandordargo.com/blog/2020/01/22/crime-scene-and-x-ray"
 ---
 Usually, I write about one single book in a given article, but this is a peculiar occasion. Last months I read both books written by [Adam Tornhill](https://twitter.com/adamtornhill?lang=en): [Your Code as a Crime Scene (_YCCS_)](https://amzn.to/2QKIlhD) and [Software Design X-Rays (_SDXR_)](https://amzn.to/30e2S18).
 <!--more-->

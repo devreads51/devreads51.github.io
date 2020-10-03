@@ -5,6 +5,7 @@ date: 2019-1-3
 category: books
 tags: [books, creation, art, marketing]
 excerpt_separator: <!--more-->
+canonical_url: "https://www.sandordargo.com/blog/2019/01/03/perennial-seller"
 ---
 You might have noticed that I don't just read technical books. In fact, at least half of the books I read are non-technical. A couple of months ago, I found a great deal on Amazon and I could get Ryan Holidays' [Perennial Seller](https://amzn.to/2vbk9d0) for less than 3 bucks in the e-book version. Will it be a perennial seller? That I can't tell, but it's definitely an interesting book for those who are interested in creation.
 <!--more-->

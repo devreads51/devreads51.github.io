@@ -5,6 +5,7 @@ date: 2020-7-8
 category: books
 tags: [books, history, computerscience, watercooler]
 excerpt_separator: <!--more-->
+canonical_url: "https://www.sandordargo.com/blog/2020/07/08/code-the-hidden-language"
 ---
 If you have been reading my book reviews, you know that I like history. Recently I wrote about [Sapiens](http://sandordargo.com/blog/2020/06/17/sapiens-by-harari) and I quoted Churchill - you know the guy who pretty much led the fight against Nazis - saying that "a nation that forgets its history has no future". John Kennedy went more broadly when he wrote "without history, we have no future."
 <!--more-->

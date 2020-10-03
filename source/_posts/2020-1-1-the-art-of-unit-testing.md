@@ -5,6 +5,7 @@ date: 2020-1-1
 category: books
 tags: [books, watercooler, tdd, testing]
 excerpt_separator: <!--more-->
+canonical_url: "https://www.sandordargo.com/blog/2020/01/01/the-art-of-unit-testing"
 ---
 [The Art of Unit Testing](https://amzn.to/2S3gRVr) is useful for both beginner unit testers and for those who already have a bit of experience. While the edition I read is with C# examples it is useful and understandable for people who work in other languages. People like me.
 <!--more-->

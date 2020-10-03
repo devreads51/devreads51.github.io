@@ -5,6 +5,7 @@ date: 2018-3-16
 category: books
 tags: [books, psychology]
 header: "My math teacher in high school told us once that there is no worse than a math teacher who doesn't care about anything but math. I think she made an important point not only for math teachers but for every human being."
+canonical_url: "https://www.sandordargo.com/blog/2018/03/16/jung-man-and-his-symbols"
 ---
 Don't be ignorant, but be interested in multiple fields and read a lot from a wide variety of topics.
 
