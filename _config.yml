@@ -12,6 +12,9 @@ google_analytics: UA-89625019-1
 
 source: source
 destination: _site
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
 
 # cover: /assets/images/header-cover.png
 
@@ -22,8 +25,8 @@ title: The Best Developer Reads
 description: "The best books for software developers not only about software development"
 meta_description: "The best books for software developers not only about software development"
 meta_keywords: "site, website, book, books, development, software, improvement, learn, learning"
-url: https://devreads.sandordargo.com/
-production_url: https://devreads.sandordargo.com/
+url: https://devreads.sandordargo.com
+production_url: https://devreads.sandordargo.com
 repo: https://github.com/devreads51/devreads51.github.io
 disqus_shortname: "sandordargo-github-io"
 rss_path: source/

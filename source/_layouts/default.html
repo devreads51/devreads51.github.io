@@ -2,10 +2,7 @@
 <html class="no-js" lang="pt-br">
   <head>
     {% include head.html %}
-
-    <meta name="robots" content="noindex"> <!--=====  Please remove it ! ! !  ======-->
-    <meta name="googlebot" content="noindex"> <!--=====  Please remove it ! ! !  ======-->
-
+    {% seo %}
   </head>
   <body class="{% if page.post_class %}{{page.post_class}}{% endif %} {% if page.slug %}{{page.slug}}{% endif %}">
     {% include header.html %}
@@ -21,10 +18,6 @@
     {% include footer.html %}
 
     {% include search-modal.html %}
-
-    {% javascript main %}
-    {% if page.slug == 'projects' %}
-        {% javascript jquery.github %}
-    {% endif %}
+<script defer=true src="{{ site.baseurl }}/assets/js/main.js"></script>
   </body>
 </html>{% endstrip %}
