@@ -20,7 +20,7 @@ plugins:
 
 # site title, description, meta_description, meta_keywords
 # Details for the RSS feed generator
-name: Sandor Dargo
+name: DevReads
 title: The Best Developer Reads
 description: "The best books for software developers not only about software development"
 meta_description: "The best books for software developers not only about software development"
