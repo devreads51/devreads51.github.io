@@ -14,3 +14,5 @@ Besides, getting better as a person, improving your learning skills or getting m
 In case, you'd like to share your book review get in touch with me at sandor dot dargo at gmail for com.
 
 Happy reading!
+
+{% include subsriciption_form.html %}

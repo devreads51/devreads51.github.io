@@ -6,7 +6,10 @@
 
   <p><a href="{{ post.url | prepend: site.baseurl }}" title="Permalink to {{ post.title }}" class="read-more">{{ post.content | strip_html | truncatewords: 50 }}</a></p>
 
+
   <footer class="post-meta">
+
+    
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">
       <i class="fa fa-calendar-o"></i> {{ page.date | date:"%Y-%m-%d" }}
     </time>
