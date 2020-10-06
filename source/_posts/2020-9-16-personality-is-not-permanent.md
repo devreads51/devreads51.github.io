@@ -5,7 +5,6 @@ date: 2020-9-16
 category: books
 tags: [books, selfimprovement, psychology, watercooler]
 excerpt_separator: <!--more-->
-canonical_url: 'https://www.sandordargo.com/blog/2020/09/16/personality-is-not-permanent'
 canonical_url: "https://www.sandordargo.com/blog/2020/09/16/personality-is-not-permanent"
 ---
 Growth is not linear. Sometimes it seems like you grow little by little, every day a bit. Sometimes you hit plateaus and it feels like you can't really achieve the levels you wanted. While other times you make your breakthrough and finally you skyrocketed to unimaginable levels. Of course, your growth is always the result of a constant fight, constant work behind the scenes, and what I described just above is only how it seems on the surface.

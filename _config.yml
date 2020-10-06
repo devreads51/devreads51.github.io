@@ -8,7 +8,7 @@ paginate_path: "/page/:num"
 
 baseurl: ""
 domain_name: devreads.sandordargo.com
-google_analytics: UA-89625019-1
+google_analytics: UA-89625019-2
 
 source: source
 destination: _site

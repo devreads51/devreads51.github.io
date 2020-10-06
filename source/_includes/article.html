@@ -11,7 +11,7 @@
 
     
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">
-      <i class="fa fa-calendar-o"></i> {{ page.date | date:"%Y-%m-%d" }}
+      <i class="fa fa-calendar-o"></i> {{ post.date | date:"%Y-%m-%d" }}
     </time>
 
     <span>
@@ -19,7 +19,7 @@
     </span>
 
     <span>
-        {% if post.categories.size > 0 %}
+<!--         {% if post.categories.size > 0 %}
           {% capture categories_content %}<i class="fa fa-folder-open-o"></i> {% endcapture %}
           {% for post_category in post.categories %}
             {% for data_category in site.data.categories %}
@@ -37,6 +37,6 @@
           {% assign categories_content = '' %}
         {% endif %}
         {{ categories_content }}
-    </span>
+ -->    </span>
   </footer>
 </article>
