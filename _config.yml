@@ -42,8 +42,8 @@ author:
 
 # thought
 thought:
-  text: I have no special talent. I am only passionately curious.
-  author: Albert Einstein
+  text: Reading must become as natural as eating and breathing to you. It’s not something you do because you feel like it, but because it’s a reflex, a default.
+  author: Ryan Holiday
 
 # Plugin: jekyll-assets
 assets:
