@@ -50,8 +50,6 @@ comments: true
 
   {{content}}
 
-  {% include subsriciption_form.html %}
-
   <footer class="post-footer">
     {% if site.author %}
     <section class="author">
@@ -61,9 +59,9 @@ comments: true
     {% endif %}
 
     {% include share.html %}
+   </footer>
 
+    {% include subsriciption_form.html %}
     {% include comments.html %}
-
-  </footer>
 
 </article>
