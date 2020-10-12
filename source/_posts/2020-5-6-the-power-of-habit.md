@@ -6,6 +6,7 @@ category: books
 tags: [books, habits, watercooler, selfimprovement]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2020/05/06/the-power-of-habit"
+tweet: "Do you want to become invincible? All you need is the right habits!"
 ---
 Books on habits can be extremely popular as we all, of course, want to create ones that can help us in our life. They help is both in our careers and in our everyday lives. Though maybe it's easier to see that in our professional path. That's why [The 7 Habits of Highly Effective People](https://amzn.to/2UwCH4y) can be so influencing. Corporations organize training around that book and hand out copies to their employees.
 

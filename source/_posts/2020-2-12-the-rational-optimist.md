@@ -6,6 +6,7 @@ category: books
 tags: [books, society, optimism, watercooler]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2020/02/12/the-rational-optimist"
+tweet: "Don't worry! We've always found a way out of the final destruction. But will we keep doing so?"
 ---
 I have a long list of books to read. I think I need some improvements to that catalog. After I finished reading [The Rational Optimist](https://amzn.to/2NQ0bxs) I'm going to present you now, I questioned myself from where I got the inspiration to read it? How did I learn about it?
 <!--more-->

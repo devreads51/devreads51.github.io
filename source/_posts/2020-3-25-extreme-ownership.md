@@ -6,6 +6,7 @@ category: books
 tags: [books, leadership, management]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2020/03/25/extreme-ownership"
+tweet: "Always own your decisions and all their consequences all the time, no matter if you succeeded or failed!"
 ---
 [Extreme Ownership](https://amzn.to/2sYrJcV) is the legendary leadership book written by two former Navy SEALs, [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin) who started to teach businesses about leadership and strategy in their civilian life and also wrote multiple books.
 <!--more-->

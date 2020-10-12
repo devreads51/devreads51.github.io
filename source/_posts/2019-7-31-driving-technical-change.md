@@ -6,6 +6,7 @@ category: books
 tags: [books, dev, management, change]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2019/07/31/driving-technical-change"
+tweet: "If you don't have initiatives, don't want to change the status quo, don't believe that you can have an impact this is not your book, otherwise..."
 ---
 If you don't have initiatives, if you don't like to nor want to change the status quo, if you don't believe that you can or should have an impact this is not your book.
 <!--more-->
@@ -18,7 +19,7 @@ If you are such a person, you know that it's not enough to have ideas. You will 
 
 First, it describes the different kinds of resistance you'll face. You'll learn that most people are _Time Crunched_, already too busy, sometimes too busy for improvements. It's not impossible to turn them around!
 
-![Too busy to innovate]({{ site.baseurl }}/assets/img/busy-to-innovate.jpg)
+![Too busy to innovate]({{site.baseurl}}/assets/img/busy-to-innovate.jpg)
 
 The _Uninformed_ and the _Herd_ are relatively easy to deal with. They need information and leadership. And you are there to provide them with all of that. But beware, sharing information and being a leader come with great responsibility!
 

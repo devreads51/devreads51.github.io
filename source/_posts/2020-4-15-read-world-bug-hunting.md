@@ -6,6 +6,7 @@ category: books
 tags: [books, hacking, security]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2020/04/15/read-world-bug-hunting"
+tweet: "Do you want to read about how the most important vulnerabilities were exploited on real widely used websites?"
 ---
 I hold the role of a White Hat in an organization where being a white-hat doesn't imply that you an expert in security matters. It's more about coordinating software security-related matters.  It's a bit like being a manager - as far as I understand what it is like being a manager - you should understand what your team does, but you don't have to be an expert yourself. There might be teams where it's definitely not the case, but I know about other corporations where they nominate managers in a way that they can't even help with the daily job even if they wanted to.
 <!--more-->

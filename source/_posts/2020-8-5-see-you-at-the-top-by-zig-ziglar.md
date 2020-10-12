@@ -6,6 +6,7 @@ category: books
 tags: [books, selfimprovement, watercooler]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2020/08/05/see-you-at-the-top-by-zig-ziglar"
+tweet: "If you want to grow and believe in processes and the importance of self discipline this book is for you!"
 ---
 If you have spent some time reading modern self-improvement books, it's almost for sure that you came across the name [Zig Ziglar](https://en.wikipedia.org/wiki/Zig_Ziglar) and his book called [See You At The Top](https://amzn.to/3fozoUp).
 

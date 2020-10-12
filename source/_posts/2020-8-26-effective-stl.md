@@ -6,6 +6,7 @@ category: books
 tags: [books, cpp, stl, watercooler]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2020/08/26/effective-stl"
+tweet: "A bit ageing, yet particularly useful book to learn about the correct usage and philosophy of the STL!"
 ---
 I have learned, [written](http://sandordargo.com/tags/#stl) and [spoken](https://www.youtube.com/watch?v=BEmAo6Fdg-Q) a lot about the Standard Template Library during the course of the last years. My sources have been mostly websites such as [cppreference.com](https://en.cppreference.com/w/), [cplusplus.com](http://cplusplus.com/), blogs, youtube videos, but not so many books.
 <!--more-->

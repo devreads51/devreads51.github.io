@@ -6,6 +6,7 @@ category: books
 tags: [books, cpp, functional, watercooler]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2020/05/28/functional-programming-in-cpp"
+twitter: "Do you want to or just have to work with C++ and yet fancy with functional programming?"
 ---
 C++ is an Object-Oriented language, right?
 

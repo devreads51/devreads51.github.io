@@ -6,6 +6,7 @@ category: books
 tags: [books, watercooler, tdd, testing]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2020/01/01/the-art-of-unit-testing"
+tweet: "If you work with C#, most probably it's the GOTO book on unit testing, but even for other languages, it is more than useful."
 ---
 [The Art of Unit Testing](https://amzn.to/2S3gRVr) is useful for both beginner unit testers and for those who already have a bit of experience. While the edition I read is with C# examples it is useful and understandable for people who work in other languages. People like me.
 <!--more-->

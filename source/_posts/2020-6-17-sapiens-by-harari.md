@@ -6,6 +6,7 @@ category: books
 tags: [books, history, future]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2020/06/17/sapiens-by-harari"
+tweet: "Are you interested in history, the big picture and not fallen to different dogmas?"
 ---
 "A nation that forgets its history has no future" as Churchill said. Or going more broad, as John Kennedy wrote, "without history, we have no future." 
 
