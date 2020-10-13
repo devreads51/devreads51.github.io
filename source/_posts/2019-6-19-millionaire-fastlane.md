@@ -6,6 +6,7 @@ category: books
 tags: [books, finance, self-improvement]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2019/06/19/millionaire-fastlane"
+tweet: "Becoming rich is not easy, but simple. Are you interested in the math behind?"
 ---
 [MJ DeMarco](https://www.mjdemarco.com/) in [his book](https://amzn.to/2XHPsZ7) offers to _"crack the code to wealth"_ so that you can _"live rich for a lifetime"_. It sounds like a clickbait, doesn't it?
 <!--more-->

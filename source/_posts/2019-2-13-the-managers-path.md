@@ -6,6 +6,7 @@ category: books
 tags: [books, self-improvement, management]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2019/02/13/the-managers-path"
+tweet: "You must know how to manage your manager. But can you do it if you're not aware what is expected from her? Find it out!"
 ---
 Have you, Sandor, really read [that book](https://amzn.to/2FclW78)? - you might ask if you know me or you simply know what path I'm following. A hint: the technical path. Yet, my answer would be, of course, I had and it was great!
 

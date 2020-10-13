@@ -6,6 +6,7 @@ category: books
 tags: [books, stoicism, history]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2019/05/08/romes-last-citizen"
+tweet: "Rome's Last Citizen was the Iron Man Of Rome. A man who knew no compromise. Was that a good idea?"
 ---
 Who was it? It depends. If we were looking for a technically correct answer, it would be simply impossible to tell and someone who died long years later. But given his character, his stance, his acts and decisions and his legacy, it was Marcus Porcius Cato or if you prefer Cato the Younger.
 <!--more-->

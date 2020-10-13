@@ -6,6 +6,7 @@ category: books
 tags: [books, self-improvement]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2019/04/17/the-compound-effect"
+tweet: "Getting great doesn't take huge bursts every once in a while, just smaller efforts, but every day in a consistent way. The effects will soon compound!"
 ---
 In an era when so many people want to have the next big shot when everyone wants to come out with the next big thing and suddenly find themselves at the top, this book, [The Compound Effect by Darren Hardy](https://amzn.to/2SkehqZ) has a very important message. Success comes from small actions, small but consistent and repeated actions.
 <!--more-->

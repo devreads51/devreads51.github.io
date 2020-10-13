@@ -6,6 +6,7 @@ category: books
 tags: [books, stoic, philosophy, life guide]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2019/05/30/the-obstacle-is-the-way"
+tweet: "Are you fed up with all those obstacles getting in your way? Cheer up, they show the way for growth!"
 ---
 [The Obstacle Is The Way](https://amzn.to/2tqsDf1) is the third book of [Ryan Holiday](https://ryanholiday.net/) and maybe the one with the biggest impact so far: _a stoic life guide_.
 <!--more-->

@@ -6,6 +6,7 @@ category: books
 tags: [books, learning, self-improvement, time management]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2018/09/19/deep-work"
+tweet: "One of the most useful and very rare skills nowadays is being able to focus and do some deep work."
 ---
 Given that I really enjoyed Cal Newport's ideas in [So Good They Can't Ignore You](/blog/2018/08/22/so-good-they-cant-ignore-you) and also the way he writes, I decided to read his other best-seller book, [Deep Work](https://amzn.to/2MgHsN6), right after. The idea of deep work was far from new to me, but I was interested in the book and the interpretation of it by Newport.
 <!--more-->

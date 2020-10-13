@@ -6,6 +6,7 @@ category: books
 tags: [books, coding, management]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2019/03/06/code-ahead"
+tweet: "This book is like the blog of @yegor256. Though-provoking. Provocative. Stimulating. For some, maybe even depressing."
 ---
 [Code Ahead](https://amzn.to/2sabi9v), what shall I call you? You are a novel. A fiction. Yet according to you, you're semi-autobiographical. You are a rather exact picture of how things go in software development. Yet you're also a manifesto of how things should go instead. You give lots of pieces of advice on "programming, debugging, releasing, testing, organizing, teamwork and management issues".
 <!--more-->

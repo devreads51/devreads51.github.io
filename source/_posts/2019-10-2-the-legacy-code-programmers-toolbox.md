@@ -6,6 +6,7 @@ category: books
 tags: [books, refactoring, legacycode]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2019/10/02/the-legacy-code-programmers-toolbox"
+tweet: "Who likes to work on legacy code? Quite a few for the matter of fact! But a good set of techniques is a must-have! @joboccara has a nice collection to offer!"
 ---
 [The Legacy Code Programmer's Toolbox](https://leanpub.com/legacycode) is the quite fresh e-book of [Jonathan Boccara](https://twitter.com/joboccara), the person behind [Fluent C++](https://www.fluentcpp.com/).
 

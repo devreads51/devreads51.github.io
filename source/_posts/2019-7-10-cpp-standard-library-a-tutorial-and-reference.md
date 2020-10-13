@@ -6,6 +6,7 @@ category: dev
 tags: [cpp, stl, books, review]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2019/07/10/cpp-standard-library-a-tutorial-and-reference"
+tweet: "1100 pages about the STL. Checking the parts in your interest can be extremely useful!"
 ---
 For each quarter, I define three goals for myself as described in [Setting yourself up to success](http://sandordargo.com/blog/2018/02/28/setting-yourself-up-to-succeed). In the previous quarters, I had personal goals related to the [C++ Standard Library](http://www.cplusplus.com/reference/).
 <!--more-->

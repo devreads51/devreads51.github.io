@@ -6,6 +6,7 @@ category: books
 tags: [books, self-improvement, career]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2019/10/23/smartcuts"
+tweet: "How do you climb a ladder? Are you actively looking for feedback? What kind of goals do you set?"
 ---
 [Smartcuts](https://amzn.to/2YuJdMx) covers how to stimulate - mostly - professional development. Hence its subtitle is _How Hackers, Innovators and Icons Accelerate Success_.
 

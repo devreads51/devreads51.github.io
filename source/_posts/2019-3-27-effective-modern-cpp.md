@@ -6,6 +6,7 @@ category: books
 tags: [books, cpp, advanced]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2019/03/27/effective-modern-cpp"
+tweet: "A book that completely changed the way I see C++. It's also the merit of the standard, but this book is a great introduction to modern C++!"
 ---
 [Effective Modern C++](https://amzn.to/2VZrLec) is the book with the biggest impact on my professional life recently. As I've written already, I used to work with older versions of C++, mostly with C++03.
 <!--more-->
