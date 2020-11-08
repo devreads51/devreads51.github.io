@@ -6,6 +6,7 @@ category: books
 tags: [books, architecture, design]
 excerpt_separator:
 canonical_url: "https://www.sandordargo.com/blog/2018/06/13/architecture-patterns"
+tweet: "Enterprise architecture? Is it frightening? Maybe, but it's a good, if you already built some bigger systems!"
 ---
 One of my areas for improvement for this year is to learn about software design, software architecture. I keep that in mind when I choose my next books. That's why I read recently [Clean Architecture by Uncle Bob](http://amzn.to/2GCoXeN) and that's why I've just read [Patterns of Enterprise Application Architecture](https://amzn.to/2GrveOO) by [Martin Fowler](https://twitter.com/martinfowler).
 <!--more-->

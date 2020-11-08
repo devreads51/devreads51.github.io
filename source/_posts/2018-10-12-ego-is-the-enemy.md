@@ -6,6 +6,7 @@ category: books
 tags: [books, self-improvement, philosophy]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2018/10/12/ego-is-the-enemy"
+tweet: "Who is your biggest enemy? It's you! To be exact, your ego!"
 ---
 [This](http://amzn.to/2FFnOmw\) is one of my latest reads. I think its title is quite unambiguous. [Ego is The Enemy](http://amzn.to/2FFnOmw) is about your life. It's about how you approach the everydays and how most of us fuck it up. We are not humble enough and our ego steps in just way too frequently. One of the best known contemporary philosophers, [Ryan Holiday](https://ryanholiday.net/) reveals the whole process of ruining your life with the lack of humility to you through a lot stories about historical and also about more celebrity-like persons."
 <!--more-->

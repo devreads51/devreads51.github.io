@@ -6,9 +6,8 @@ category: books
 tags: [7languages, ruby, books]
 header: "I decided to read <a href=\"http://amzn.to/2xV90jo\">Bruce Tate's Seven Languages in Seven Weeks</a> and I just finished with the first one: Ruby!"
 canonical_url: "https://www.sandordargo.com/blog/2017/01/02/7-languages-7-weeks-ruby"
+tweet: "Are you open for a weekly challenge?"
 ---
-
-
 Why I wanted to read the [book](http://amzn.to/2xV90jo)? At work I use mostly 3 languages: C++, Java and Python, depending on my actual project/task. I tend to read a lot of technical books and articles, so I hear often about other languages, other paradigms which are quite unfimilar to me. I have been thinking more and more about learning something completely new (to me) such as functional programming.
 
 Then I ran across [this book](http://amzn.to/2xV90jo) and I knew it is for me. It is challenging enough and should pay off quite well.

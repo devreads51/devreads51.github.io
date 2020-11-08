@@ -6,6 +6,7 @@ category: books
 tags: [books, coders at work]
 header: "The ninth guy interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"https://labs.oracle.com/pls/apex/f?p=labs:bio:0:120\">Guy Steele</a>, Software Architect for <a href=\"https://labs.oracle.com/pls/apex/f?p=labs:10:0:::::\">Oracle Labs</a> and Principal Investigator of the Programming Language Research Group."
 canonical_url: "https://www.sandordargo.com/blog/2017/12/01/coders-at-work-guy-steele"
+tweet: "You cannot possibly know anything and there are more and more things. This makes our job more difficult than 30 years ago."
 ---
 If you read the introduction of his chapter, it would mean no surprise at all that he works in a programming language research group. He is a true polyglot, he mentions about two dozens of languages he used seriously. I'm afraid by seriously he means a deeper knowledge than most of have on our major language.
 

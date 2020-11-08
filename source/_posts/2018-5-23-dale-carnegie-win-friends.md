@@ -6,6 +6,7 @@ category: books
 tags: [books, soft skills, leadership]
 header: "A few weeks age I read <a href=\"https://amzn.to/2JJfhBc\">How to Win Friends and Influence People</a> from <a href=\"https://en.wikipedia.org/wiki/Dale_Carnegie\">Dale Carneige</a>. It's a real perennial seller. It was first published in 1936 and it still flourishes and there is a good chance that I will just like Shakespeare. In fact, I had recommendations to read it so much, that it became inevitable..."
 canonical_url: "https://www.sandordargo.com/blog/2018/05/23/dale-carnegie-win-friends"
+tweet: "The biggest classic about connectong people with practical pieces of advice!"
 ---
 I'm not good at connecting people. I'm too introverted and maybe still a bit shy. I was like that as a child and I'm still a bit. Even though the years I spent at working in and next to politics helped me a lot to overcome this weakness.
 

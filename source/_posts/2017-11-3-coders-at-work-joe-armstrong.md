@@ -6,6 +6,7 @@ category: books
 tags: [books, coders at work]
 header: "The sixth guy interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"https://twitter.com/joeerl\">Joe Armstrong</a> the inventor of <a href=\"https://en.wikipedia.org/wiki/Erlang_(programming_language)\">Erlang</a>. Here is a small reflection on this chapter."
 canonical_url: "https://www.sandordargo.com/blog/2017/11/03/coders-at-work-joe-armstrong"
+tweet: "The inventor of Erlang, who strongly believes in the compound effect."
 ---
 Armstrong says that in his time it was easier to be a junior programmer. All one had to do was just get out there and do it. There was not much choice if any. Today we have to choose from dozens of languages, frameworks, not to mention different opearing systems. That choice can be paralyzing. Some people even get stuck at that level and never really start.
 

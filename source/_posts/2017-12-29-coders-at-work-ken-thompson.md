@@ -6,6 +6,7 @@ category: books
 tags: [books, coders at work]
 header: "The 12th guy interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"https://en.wikipedia.org/wiki/Ken_Thompson\">Ken Thompson</a>, the creator of Unix and B programming language."
 canonical_url: "https://www.sandordargo.com/blog/2017/12/29/coders-at-work-ken-thompson"
+tweet: "A prgamatic guy who contributed both to UTF-8 and the first special purpose chess computer."
 ---
 He has many more important contributions to computer science including the first special purpose chess computer or UTF-8, but I let you read about it on the internet.
 

@@ -6,6 +6,7 @@ category: books
 tags: [books, self-improvement, career]
 header: "We are living in a world where anywhere you turn, someone will bark in your face how successful he or she is. How much he likes his life and that if you are not a zillionaire by the age of 30 you are nothing but a douchebag. Okay, this might sound like a little bit of exaggeration, but not that much to be honest."
 canonical_url: "https://www.sandordargo.com/blog/2018/04/04/born-for-this"
+tweet: "Do you do the same work for living as your parents? If not, how did you find your calling? Have you found it in fact?"
 ---
 What is definitely true that this is not the world anymore where most of the people will just simply take the baton from their parents and continue with that whatever business or profession right until their own children would take over the very same baton. You want to find your calling. You want to do something meaningful - at least to you and that is difficult it.
 

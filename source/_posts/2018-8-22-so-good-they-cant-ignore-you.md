@@ -6,6 +6,7 @@ category: books
 tags: [books, learning, self-improvement]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2018/08/22/so-good-they-cant-ignore-you"
+tweet: "Rule number one: don't follow your passion!"
 ---
 Find your passion that you carry within yourself. Find it as soon as possible and you'll be great! This is something we can read at almost every corner of the internet.
 

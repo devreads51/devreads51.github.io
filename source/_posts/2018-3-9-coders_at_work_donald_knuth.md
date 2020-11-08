@@ -6,6 +6,7 @@ category: books
 tags: [books, coders at work]
 header: "The 15th and the last person interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is the famous <a href=\"https://en.wikipedia.org/wiki/Donald_Knuth\">Donald Knuth</a>, the Diderot of Computer Sciences, the author of the monstrous <a href=\"http://amzn.to/2BzJtd1\">The Art of Computer Programming</a>."
 canonical_url: "https://www.sandordargo.com/blog/2018/03/09/coders_at_work_donald_knuth"
+tweet: "An interview with one of the greatest computer scientists!"
 ---
 One might think that Knuth is just a theorist, but it would be a bad perception. He wrote [TeX](https://en.wikipedia.org/wiki/TeX) and [METAFONT](https://en.wikipedia.org/wiki/Metafont), his works helped a lot of other developers to publish their work in a better format.
 

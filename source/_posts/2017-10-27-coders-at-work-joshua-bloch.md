@@ -6,6 +6,7 @@ category: books
 tags: [books, coders at work]
 header: "The fifth person interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"https://twitter.com/joshbloch\">Joshua Bloch</a> author of <a href=\"http://amzn.to/2gwaeuc\">Effective Java</a>. Here is a small reflection on this chapter."
 canonical_url: "https://www.sandordargo.com/blog/2017/10/27/coders-at-work-joshua-bloch"
+tweet: "There are two groups of programmers. The low-level ones who needs more math and the others who need to be competent writers."
 ---
 He used to work for Google as Chief Java Architect and before for Sun Microsystems where he worked on various Java features and frameworks. Among others, he had a huge impact on Java 2 and Java 5.
 

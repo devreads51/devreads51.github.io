@@ -6,6 +6,7 @@ category: books
 tags: [books, philosophy]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2018/10/31/nassim-taleb-the-black-swan"
+tweet: "The unexpected that are so obvious in hindsight, the Black Swans. "
 ---
 I came across [Nassim Taleb](https://twitter.com/nntaleb)'s name and [The Black Swan](https://www.amazon.com/gp/product/081297381X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=sandordargo-20&creative=9325&linkCode=as2&creativeASIN=081297381X&linkId=865c0480ef600706741c5870285b1604) several times reading the books and articles of some modern Stoics and some motivational writers. When I mentioned to one of my best friends that this is the book I'm going to read next, he told me that he'd be very interested in my opinion. According to him, many people don't like Taleb.
 <!--more-->

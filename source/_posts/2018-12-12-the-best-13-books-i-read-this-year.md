@@ -6,11 +6,12 @@ category: books
 tags: [books, cpp, self learning, hobby]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2018/12/12/the-best-13-books-i-read-this-year"
+tweet: "13 great books I read in a year! I'd read them any year! And you?"
 ---
 One of my favourite hobbies is reading. Even as a father of two small children, I try to find some time every day to read either before the others wake up or after they went to sleep or sometimes at lunchtime on the bank of a nearby creek.
 <!--more-->
 
-![The Boullide nearby my office]({{ site.baseurl }}/assets/img/bouillide.jpg "The Boullide nearby my office")
+![The Boullide nearby my office]({{site.baseurl}}/assets/img/bouillide.jpg "The Boullide nearby my office")
 
 When I was a young kid, I loved books. Maps even more. As a teenager sometimes I read a lot of books, sometimes not even one in a year, apart from the mandatory ones at school. Later, in the second year of university during the exams, I wanted to switch a bit off and I read the three books of [The Count of Monte Cristo ](https://amzn.to/2TMCpnL) in less than a week. 
 

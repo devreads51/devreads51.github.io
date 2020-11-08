@@ -6,6 +6,7 @@ category: books
 tags: [books, coders at work]
 header: "The 11th guy interviewed in <a href=\"http://amzn.to/2wKEeVt\">Coders at Work: Reflections on the Craft of Programming</a> is <a href=\"https://en.wikipedia.org/wiki/L._Peter_Deutsch\">L Peter Deutsch</a>, the creator of GhostScript and - yes - musician."
 canonical_url: "https://www.sandordargo.com/blog/2017/12/22/coders-at-work-l-peter-deutsch"
+tweet: "A Fellow of ACM who get fed up with CS and became a musician."
 ---
 The path of Deutsch is really interesting. He started programming in 1957 at the age of 11, he received a Ph.D. from Berkeley, worked at Xerox Parc, Sun Microsystem. He was even inducted as a Fellow of the Association for Computing Machinery. Later he got fed up with computer sciences and became a musician.
 

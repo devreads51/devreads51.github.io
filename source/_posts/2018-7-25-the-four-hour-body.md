@@ -6,6 +6,7 @@ category: books
 tags: [tim ferriss, 4hww, 4hb, books]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2018/07/25/the-four-hour-body"
+tweet: "What can you do in 4 hours? A full work week for sure, but what about a great body?"
 ---
 Last year I have read the first book of [Tim Ferriss](https://tim.blog/), the "Bible of life hackers", [The 4 Hour Work Week(4HWW)](http://sandordargo.com/blog/2017/06/09/4hww). Recently I finished reading one of his other books [The 4 Hour Body(4HB)](https://amzn.to/2IuzNUD).
 <!--more-->
