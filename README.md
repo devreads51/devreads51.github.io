@@ -1,6 +1,9 @@
 # nandomoreira.me jekyll theme
 
-
+page footer
+link to sandordargi.com
+link daily cpp interview
+tags or categories under article
 
 ### [Preview](https://nandomoreirame.github.io/nandomoreira-jekyll-theme/)
 
