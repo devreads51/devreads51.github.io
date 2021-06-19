@@ -6,7 +6,7 @@ category: books
 tags: [books, watercooler, cpp, bestpractices]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2021/06/05/cpp-best-practices-by-jason-turner"
-tweet: "Do you want to level up your knowledge? Do you want exercises enough for a month?"
+tweet: "Do you want to level up your C++ knowledge? Do you want exercises enough for a month?"
 ---
 [This is a book](https://leanpub.com/cppbestpractices) that I've been waiting for to finally read for a long time. I could have bought it, but I decided that it'll be the first book that I buy from the royalties I earned with [How to use const in C++](https://leanpub.com/cppconst).  
 <!--more-->
