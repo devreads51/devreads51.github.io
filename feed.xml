@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Best Developer Reads</title>
+    <description>The best books for software developers not only about software development</description>
+    <link>https://devreads.sandordargo.com/</link>
+    <atom:link href="https://devreads.sandordargo.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 17 Jul 2021 20:22:19 +0200</pubDate>
+    <lastBuildDate>Sat, 17 Jul 2021 20:22:19 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Scrum: The Art of Doing Twice the Work in Half the Time by Jeff Sutherland</title>
+        <description>&lt;p&gt;I recently read &lt;a href=&quot;https://devreads.sandordargo.com/clean-agile-by-uncle-bob/&quot;&gt;Clean Agile by Uncle Bob&lt;/a&gt; and probably that’s why my Kindle recommended me to read &lt;a href=&quot;https://amzn.to/3bqM0uK&quot;&gt;Scrum: The Art of Doing Twice the Work in Half the Time&lt;/a&gt; on Agile by another founder of &lt;a href=&quot;https://agilemanifesto.org/&quot;&gt;the Agile Manifesto&lt;/a&gt;. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Well, if there is one person who is more equal among the 17 founders, maybe it’s &lt;a href=&quot;https://twitter.com/jeffsutherland&quot;&gt;Jeff Sutherland&lt;/a&gt;. At least in regards to Scrum. He clearly considers it the best way of doing things - if done right.&lt;/p&gt; &lt;h2 id=&quot;deliver-more-with-less&quot;&gt;Deliver more with less&lt;/h2&gt; &lt;p&gt;He brings examples to support his points. Not one or two but many.&lt;/p&gt;...</description>
+        <pubDate>Sat, 17 Jul 2021 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/scrum-by-jeff-sutherland/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/scrum-by-jeff-sutherland/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>agile</category>
+        
+        <category>projectmanagement</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>The Richest Man in Babylon by George S Clason</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/1939438632/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;amp;tag=sandordargo-20&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=1939438632&amp;amp;linkId=f075962475cbe35d1a89d6e11310dd09&quot;&gt;The Richest Man in Babylon&lt;/a&gt; was first published in 1926, almost one hundred years ago. We might think about it as the father of all modern personal finance advice books. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Especially if we consider that it’s based on a collection of parables that were written 4,000 years ago in the ancient city of Babylon, the richest city in that world.&lt;/p&gt; &lt;p&gt;They understood some basic correlations that many still get wrong. Now, let’s see some of the main ideas.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/babylon.jpg&quot; alt=&quot;Babylon&quot; title=&quot;Babylon&quot; /&gt;&lt;/p&gt; &lt;p&gt;If you are dedicated you can read the book in one afternoon, it’s only about...</description>
+        <pubDate>Sat, 03 Jul 2021 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/the-richest-man-in-babylon/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/the-richest-man-in-babylon/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>history</category>
+        
+        <category>finance</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>The 4 C's formula by Dan Sullivan</title>
+        <description>&lt;p&gt;I rarely review shortish free e-books, but when I thought about it, I realized there is no real reason behind. In fact, is that a problem that a book is shorter than a 100 pages? Value should not be tied to length. If you think about my book on &lt;a href=&quot;https://leanpub.com/cppconst/&quot;&gt;How to use consts in C++&lt;/a&gt;, it’s less than 50 and… Ok, I’m kidding here, but even &lt;a href=&quot;https://devreads.sandordargo.com/cpp-best-practices-by-jason-turner/&quot;&gt;Jason Turner’s C++ Best Practices is about 130 pages&lt;/a&gt;. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;But getting back to the length. Do you know why a &lt;em&gt;real&lt;/em&gt; book should have at least so many pages? Because otherwise...</description>
+        <pubDate>Sat, 19 Jun 2021 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/4c-formula-by-dan-sullivan/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/4c-formula-by-dan-sullivan/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>selfdevelopment</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>C++ Best Practices by Jason Turner</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://leanpub.com/cppbestpractices&quot;&gt;This is a book&lt;/a&gt; that I’ve been waiting for to finally read for a long time. I could have bought it, but I decided that it’ll be the first book that I buy from the royalties I earned with &lt;a href=&quot;https://leanpub.com/cppconst&quot;&gt;How to use const in C++&lt;/a&gt;.&lt;br /&gt; &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;My hard-earned money was well invested. Though I was a little bit surprised in the beginning and I was not completely convinced that it was worth the money.&lt;/p&gt; &lt;p&gt;I attended the talk of &lt;a href=&quot;https://cppnow2021.sched.com/event/hhlq&quot;&gt;Jason at C++Now&lt;/a&gt; where among others he talked about his journey of writing this book. He shared...</description>
+        <pubDate>Sat, 05 Jun 2021 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/cpp-best-practices-by-jason-turner/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/cpp-best-practices-by-jason-turner/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>cpp</category>
+        
+        <category>bestpractices</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>The Big Leap: Conquer Your Hidden Fear and Take Life to the Next Level by Gay Hendricks</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://amzn.to/3fzGsB9&quot;&gt;The Big Leap&lt;/a&gt;! Who doesn’t want to take the big leap? I bet there are many. Stepping up always involve some risks and humans, in general, are more afraid of loss and therefore they are more risk-averse than thrill-seeking. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;And there is more to that. Even if on the surface you’re looking to make your bet and make the big leap towards success, your subconscious might think the opposite. Your subconscious mind will do whatever it can (and that’s a lot!) to play your efforts down, to not let you achieve your full potential.&lt;/p&gt; &lt;p&gt;Have you ever caught...</description>
+        <pubDate>Sat, 22 May 2021 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/the-big-leap-by-gay-hendricks/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/the-big-leap-by-gay-hendricks/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>selfdevelopment</category>
+        
+        <category>psychology</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Soft Skills: The Software Developer's Life Manual (Second edition) by John Sonmez</title>
+        <description>&lt;p&gt;This is the second edition of the book and it was promised to include some important updates. As I liked the first edition and I could it get from &lt;a href=&quot;https://amzn.to/3q2z7Mj&quot;&gt;Amazon for less than 10 Euros&lt;/a&gt;, I gave it a try. &lt;!--more--&gt; In general, I can say that most of the changes are all well-marked. This might seem a bit odd and breaks the reading flow, but on the other hand, it also shows how the view of the author on certain things changed and often this comes with some explanations.&lt;/p&gt; &lt;p&gt;I felt sometimes that more parts should have been...</description>
+        <pubDate>Sat, 08 May 2021 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/soft-skills-by-john-sonmez/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/soft-skills-by-john-sonmez/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>career</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>How to Talk so Little Kids Will Listen by Joanna Faber and Julie King</title>
+        <description>&lt;p&gt;I just finished filling up my kindle with books enough probably for the whole year based on the recommendations of &lt;a href=&quot;https://www.navalmanack.com/navals-recommended-reading&quot;&gt;Naval Ravikant&lt;/a&gt;, when I ran into &lt;a href=&quot;https://amzn.to/3x0YuCt&quot;&gt;this book&lt;/a&gt;. &lt;!--more--&gt; Often, I find it difficult at home with the kids. You know, eating with 2 little fellows, trying to grow them, manage tantrums, etc. I saw this book somewhere, and I thought this should pay off fast, if not, well, I don’t lose much.&lt;/p&gt; &lt;p&gt;So what is my general feeling about the book?&lt;/p&gt; &lt;p&gt;I’m one of that person who she talks about the end. Some people are horrified by...</description>
+        <pubDate>Sat, 17 Apr 2021 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/how-to-talk-so-little-kids-will-listen/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/how-to-talk-so-little-kids-will-listen/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>parenting</category>
+        
+        <category>children</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>C++ 20: Get the details by Rainer Grimm</title>
+        <description>&lt;p&gt;I could say that I picked &lt;a href=&quot;https://leanpub.com/c20&quot;&gt;C++ 20: Get the details&lt;/a&gt; up because I wanted to learn about the latest version of C++. I wouldn’t lie if I said so, but truth be told I was already an avid reader of &lt;a href=&quot;https://www.modernescpp.com/&quot;&gt;Modernes C++&lt;/a&gt;, the blog of Rainer Grimm who wrote this book, so I was already familiar with many of the ideas presented. In addition, I responded to his call for help and I volunteered to be a proofreader of his new book. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;It took me a considerable time, but it was totally worth it and not...</description>
+        <pubDate>Sat, 03 Apr 2021 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/cpp20-get-the-details-rainer-grimm/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/cpp20-get-the-details-rainer-grimm/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>cpp</category>
+        
+        <category>cpp20</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Skin in the Game: Hidden Asymmetries in Daily Life by Nassim Taleb</title>
+        <description>&lt;p&gt;I read once again a very interesting book by &lt;a href=&quot;https://www.sandordargo.com/blog/2018/10/31/nassim-taleb-the-black-swan&quot;&gt;Nassim Taleb&lt;/a&gt;. I realized that I don’t just like his books, but I sympathize with the author, with his style, with his sarcasm. More than that, I like that someone without social sciences background writes about philosophy, about life. He is a former options trader and risk analyst, a statistician with quite some experience in real life. I think about him as I think about stoics, about Ryan Holiday. For these people, philosophy is not something they think about in their ivory towers far away from people. No, for them,...</description>
+        <pubDate>Sat, 20 Mar 2021 00:00:00 +0100</pubDate>
+        <link>https://devreads.sandordargo.com/skin-in-the-game-by-nassim-taleb/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/skin-in-the-game-by-nassim-taleb/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>personaldevelopment</category>
+        
+        <category>riskmanagement</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Clean Agile: Back to Basics by Robert C. Martin</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://amzn.to/3qHjlaq&quot;&gt;Clean Agile&lt;/a&gt; comes from &lt;a href=&quot;https://twitter.com/unclebobmartin&quot;&gt;Uncle Bob&lt;/a&gt;, one of the founding fathers of Agile, one of the seventeen people who authored the &lt;a href=&quot;https://agilemanifesto.org/&quot;&gt;Agile Manifesto&lt;/a&gt; back in 2001. &lt;!--more--&gt; I thought he might have some interesting thoughts on the beast they released on the software development industry.&lt;/p&gt; &lt;p&gt;He taught me even more.&lt;/p&gt; &lt;p&gt;The role of this book was perfectly summarized in the afterword by &lt;a href=&quot;https://twitter.com/misteregc&quot;&gt;Eric Crichlow&lt;/a&gt;:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;Imagine the significance of having a view into the origins of your religion, an understanding of the events and thoughts that shaped what would become canon for you. When it comes...</description>
+        <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
+        <link>https://devreads.sandordargo.com/clean-agile-by-uncle-bob/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/clean-agile-by-uncle-bob/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>agile</category>
+        
+        <category>projectmanagement</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+  </channel>
+</rss>
