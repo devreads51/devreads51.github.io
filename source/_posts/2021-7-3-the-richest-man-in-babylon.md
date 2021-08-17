@@ -6,7 +6,7 @@ category: books
 tags: [books, watercooler, history, finance]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2021/07/03/the-richest-man-in-babylon"
-tweet: "Here are the 4000 year old rules of personal finance."
+tweet: "Are you looking for some evergreen personal finance advice? These ones are at least 4000 years old!"
 ---
 [The Richest Man in Babylon](https://www.amazon.com/gp/product/1939438632/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=sandordargo-20&creative=9325&linkCode=as2&creativeASIN=1939438632&linkId=f075962475cbe35d1a89d6e11310dd09) was first published in 1926, almost one hundred years ago. We might think about it as the father of all modern personal finance advice books.
 <!--more-->

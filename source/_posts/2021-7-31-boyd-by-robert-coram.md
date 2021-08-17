@@ -6,7 +6,7 @@ category: books
 tags: [books, watercooler, management, biography]
 excerpt_separator: <!--more-->
 canonical_url: "https://www.sandordargo.com/blog/2021/07/31/boyd-by-robert-coram"
-tweet: "The man who changed how dogfights are faught, airplanes designed and after all, how software is built."
+tweet: "The man who changed how dogfights are fought, airplanes designed and after all, how software is built."
 ---
 I found [this book](https://www.amazon.com/gp/product/B000FA5UEG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=sandordargo-20&creative=9325&linkCode=as2&creativeASIN=B000FA5UEG&linkId=daed4d37e8c6b25dcf494239369ec82a) in the monthly reading list I receive from [Ryan Holiday](https://ryanholiday.net/reading-newsletter/). I was not sure what the biography of a fighter pilot would offer to me, but the subtitle of the book is *The Fighter Pilot Who Changed the Art of War*. A fighter pilot, who made a difference way beyond his field. That must be interesting. I cannot express with words how fascinating his story is. If I just think about this book, I feel thrilled deep in my bones.
 <!--more-->
