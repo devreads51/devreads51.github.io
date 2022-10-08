@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html class="no-js" lang="pt-br">
+  <head>
+<meta charset="utf-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="alternate" href="https://devreads.sandordargo.com" hreflang="en-US">
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="theme-color" content="#005344">
+<title>Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library by Scott Meyers | DevReads</title>
+<meta name="google-site-verification" content="zS1dSn20XtA4FJYEOQLXqI0boxZdMnJ2g3beje-cl20">
+<meta name="description" content="The best books for software developers not only about software development">
+<meta name="keywords" content="site, website, book, books, development, software, improvement, learn, learning">
+<!-- Social: Facebook / Open Graph -->
+<meta property="og:url" content="https://devreads.sandordargo.com/effective-stl/">
+<meta property="og:title" content="Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library by Scott Meyers | DevReads">
+<meta property="og:description" content="The best books for software developers not only about software development">
+<meta property="og:site_name" content="Sandor Dargo">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:author" content="">
+<meta property="og:image" content="https://devreads.sandordargo.com">
+<!-- Social: Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@SandorDargo">
+<meta name="twitter:domain" content="https://devreads.sandordargo.com">
+<meta name="twitter:title" content="Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library by Scott Meyers | DevReads">
+<meta name="twitter:description" content="The best books for software developers not only about software development">
+<meta name="twitter:image:src" content="https://devreads.sandordargo.com">
+<!-- Favicons -->
+<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/assets/images/ico/apple-touch-icon.png">
+<link rel="shortcut icon" type="image/x-icon" href="/assets/images/ico/favicon.ico">
+<!-- rel prev and next -->
+<!-- Canonical link tag -->
+<link rel="alternate" type="application/rss+xml" title="DevReads" href="https://devreads.sandordargo.com/feed.xml">
+<link rel="stylesheet" href="/assets/css/main.css">
+<script defer=false src="/assets/js/modernizr-custom.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Website",
+  "publisher": "devreads.sandordargo.com",
+  "url": "http://devreads.sandordargo.com/",
+  "description": "The best books for software developers not only about software development"
+}
+</script>
+<script type="text/javascript">
+  var disqus_shortname = 'sandordargo-github-io',
+      baseurl          = '';
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89625019-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-89625019-2');
+</script>
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library by Scott Meyers | The Best Developer Reads</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library by Scott Meyers" />
+<meta name="author" content="Sandor Dargo" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="I have learned, written and spoken a lot about the Standard Template Library during the course of the last years. My sources have been mostly websites such as cppreference.com, cplusplus.com, blogs, youtube videos, but not so many books." />
+<meta property="og:description" content="I have learned, written and spoken a lot about the Standard Template Library during the course of the last years. My sources have been mostly websites such as cppreference.com, cplusplus.com, blogs, youtube videos, but not so many books." />
+<link rel="canonical" href="https://www.sandordargo.com/blog/2020/08/26/effective-stl" />
+<meta property="og:url" content="https://www.sandordargo.com/blog/2020/08/26/effective-stl" />
+<meta property="og:site_name" content="The Best Developer Reads" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-08-26T00:00:00+02:00" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","headline":"Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library by Scott Meyers","dateModified":"2020-08-26T00:00:00+02:00","datePublished":"2020-08-26T00:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.sandordargo.com/blog/2020/08/26/effective-stl"},"author":{"@type":"Person","name":"Sandor Dargo"},"url":"https://www.sandordargo.com/blog/2020/08/26/effective-stl","description":"I have learned, written and spoken a lot about the Standard Template Library during the course of the last years. My sources have been mostly websites such as cppreference.com, cplusplus.com, blogs, youtube videos, but not so many books.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+  </head>
+  <body class=" effective-stl">
+    <header class="header">
+  <div class="container">
+    <h1><a href="/"><strong>DevReads</strong>.sandordargo.com</a></h1>
+    <nav class="navbar">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="#!" data-modal="modalSearch"><i class="fa fa-search"></i></a></li>
+       </ul>
+    </nav>
+  </div>
+</header>
+    <main class="wrapper container" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+      <article class="post" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+  <header class="post-header">
+    <h1>Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library by Scott Meyers</h1>
+    <div class="post-meta">
+      <time datetime="2015-10-13">
+        <i class="fa fa-calendar-o"></i> <time datetime="2020-08-26"> 2020-08-26
+      </time>
+      <span>
+        <i class="fa fa-comments"></i> <a href="/effective-stl/#disqus_thread" data-disqus-identifier="/effective-stl">Leave a comment</a>
+      </span>
+      <span>
+        <i class="fa fa-folder-open-o"></i> 
+      </span>
+    </div>
+  </header>
+  <p>I have learned, <a href="http://sandordargo.com/tags/#stl">written</a> and <a href="https://www.youtube.com/watch?v=BEmAo6Fdg-Q">spoken</a> a lot about the Standard Template Library during the course of the last years. My sources have been mostly websites such as <a href="https://en.cppreference.com/w/">cppreference.com</a>, <a href="http://cplusplus.com/">cplusplus.com</a>, blogs, youtube videos, but not so many books.
+<!--more--></p>
+<p>Last year I read <a href="http://sandordargo.com/blog/2019/07/10/cpp-standard-library-a-tutorial-and-reference">The C++ Standard Library: A Tutorial and Reference by Nicolai Josuttis</a> - who by the way gave <a href="https://www.youtube.com/watch?v=elFil2VhlH8">a very interesting keynote about std::jthread at C++ On Sea</a>.</p>
+<p>Recently, I decided to pick up another promising book, <a href="https://amzn.to/32c62Ub">The Effective STL</a> by the great <a href="https://www.aristeia.com/">Scott Meyers</a>.</p>
+<p>Did the book meet my expectation?</p>
+<p>It did!</p>
+<h2 id="who-should-read-it">Who should read it?</h2>
+<p>I recommend you to read <a href="https://amzn.to/32c62Ub">The Effective STL</a> if you are not totally new to the Standard Template Library. Why don’t I recommend it to complete beginners?</p>
+<p>Not because you need some prior knowledge. You need to understand C++ on a basic level of course, but that’s not my concern.</p>
+<p>In the preface of <a href="https://amzn.to/2YlY21N">My Early Life</a>, Winston Churchill wrote that society, politics, war, youth, values have changed since the events of the book happened and the points of view he wrote down were appropriate to his age and the era even if they are not gerenally accepted anymore.</p>
+<p>While the majority of this book is still valid, some pieces of advice bacome obsolete by the almost 20 years that passed by since the release of <a href="https://amzn.to/32c62Ub">The Effective STL</a> in 2001. Accept the rest as representing the state of the art of the pre C++11 era.</p>
+<p>Anyway, if you are a complete beginner and you decide to pick up this book, you’ll improve a lot, the only thing is that your code will not be very modern and in some cases, you lose some of the efficiency and expressive power that C++ and the STL gained with its modern versions (starting from C++11).</p>
+<h2 id="how-is-it-organized">How is it organized?</h2>
+<p>The 50 items of the book are organized around 7 chapters: Containers, Iterators, Algorithms, Functors. No surprise, after all, they are the key elements of the STL.</p>
+<p>Wait, this is only 4! The last one is “Programing with the STL” and there are two more, right after the <em>Containers</em>: chapter 2 is about vectors and strings and chapter 3 is about associative containers.</p>
+<p>To me, this organization is a little bit odd, though I understand that the author wanted to avoid having some huge chapters and decided to break down some.</p>
+<h2 id="what-will-you-learn">What will you learn?</h2>
+<p>There are some real “tricks” like using the so-called swap trick to remove excess capacity from a vector (Item 17), there are items that I also talked about at <a href="https://www.youtube.com/watch?v=BEmAo6Fdg-Q">C++ On Sea</a>, such as algorithms that are expecting sorted containers (Item 34), but there are at least 2 items that can have a much bigger impact on how you write.</p>
+<h3 id="item-43-prefer-algorithm-calls-to-hand-written-loops">Item 43: Prefer algorithm calls to hand-written loops</h3>
+<p>This is something that went viral since then. <a href="https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning">In his famous talk, Sean Parent advocated for it</a>, it was recently a topic in the Italian C++ Conference disguised as the <a href="https://www.youtube.com/watch?v=CjHgL5EQdcY">Initialize Then Modify anti-pattern</a> presented by Conor Hoekstra, and I also <a href="http://www.sandordargo.com/blog/2020/05/13/loops-vs-algorithms">wrote about it</a> earlier this year.</p>
+<p>I’d suggest you to check out any of these resources, probably in the order I listed them.</p>
+<p>Still, let me summarized the main reasons.
+Algorithms are:</p>
+<ul>
+  <li>more expressive than handwritten loops</li>
+  <li>well tested, so less error-prone than raw loops</li>
+  <li>and for most us - mortal human beings -, algorithms will be more performant</li>
+</ul>
+<h3 id="item-47-avoid-producing-write-only-code">Item 47: Avoid producing write-only code</h3>
+<p>When I read the term write-only, I didn’t understand what it is. Of course, you shouldn’t use variables that are never read, you shouldn’t have unused variables, but they generate compiler warnings anyway. And hopefully, we all handle warnings as errors in our projects.</p>
+<p>But this item is not about unused variables. It’s about code that you write once and then nobody dears to touch it. That’s what Meyers meant by write-only code.</p>
+<p>We all know this type of code. A four thousand long shell script where you have functions of several hundreds of lines long and each time your team has to extend it, you fight not to be the next unlucky one who must take it this time, but time is never given to actually understand it and make it more readable.</p>
+<p>We all have something like that and item 47 is not about that kind of write-only code!</p>
+<p>What else can be?</p>
+<p>Have you read the <a href="https://amzn.to/2QdYzOT">Software Craftsman by Sandro Mancuso</a>? There is a story about his younger self who managed to got into his dream team at his workplace and he wanted to impress his new boss with some brilliant code.</p>
+<p>His boss walked by and deleted all of it.</p>
+<p>Remember, you don’t write code to impress people. You write code to deliver solutions, solutions that can be maintained. Keep it stupid simple. Don’t use techniques that no one else will understand. Don’t use obscure libraries.</p>
+<p>Write easy to understand, easy to maintain, yet correct code. That’s your job.</p>
+<p>And what is easy to understand will depend of course on your team. It won’t be the same in some niche company mostly with really experienced profile devs and in a huge corporation with a high turn over rate and a big bunch of <a href="https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/">expert beginners</a>.</p>
+<p>You have to assess, you have to find the balance keeping the one goal in mind.</p>
+<h2 id="conlusion">Conlusion</h2>
+<p>Despite its age, I still recommend reading <a href="https://amzn.to/32c62Ub">The Effective STL</a> if you want to boost (no pun intended) your knowledge on the Standard Template Library. You will understand what is going on under the hood when you use certain techniques you knew about, you’ll learn new tricks and in general, you’ll understand better how the STL is designed, how each element should work together.</p>
+<p>Happy reading!</p>
+  <footer class="post-footer">
+    <section class="author">
+      <h4>Sandor Dargo</h4>
+      <p>C++ Developer, writer, speaker, traveller, happy father of two</p>
+    </section>
+<aside class="share">
+  <h4>Share this.</h4>
+  <a href="http://twitter.com/share?text=Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library by Scott Meyers&amp;url=https://devreads.sandordargo.com/effective-stl/"
+  onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+    <i class="fa fa-twitter-square"></i>
+  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://devreads.sandordargo.com/effective-stl/"
+  onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+    <i class="fa fa-facebook-square"></i>
+  </a>
+</aside>
+   </footer>
+    <!-- Begin Sendinblue Form -->
+<!-- START - We recommend to place the below code in head tag of your website html  -->
+<style>
+  @font-face {
+    font-display: block;
+    font-family: Roboto;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
+  }
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 600;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
+  }
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 700;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
+  }
+  #sib-container input:-ms-input-placeholder {
+    text-align: left;
+    font-family: "Helvetica", sans-serif;
+    color: #c0ccda;
+  }
+  #sib-container input::placeholder {
+    text-align: left;
+    font-family: "Helvetica", sans-serif;
+    color: #c0ccda;
+  }
+  #sib-container textarea::placeholder {
+    text-align: left;
+    font-family: "Helvetica", sans-serif;
+    color: #c0ccda;
+  }
+</style>
+<link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
+<!--  END - We recommend to place the above code in head tag of your website html -->
+<!-- START - We recommend to place the below code where you want the form in your website html  -->
+<div class="sib-form" style="text-align: center;
+         background-color: transparent;                                 ">
+  <div id="sib-form-container" class="sib-form-container">
+    <div id="error-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;max-width:540px;">
+      <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+        <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon">
+          <path d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z"
+          />
+        </svg>
+        <span class="sib-form-message-panel__inner-text">
+                          Your subscription could not be saved. Please try again.
+                      </span>
+      </div>
+    </div>
+    <div></div>
+    <div id="success-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#085229; background-color:#e7faf0; border-radius:3px; border-color:#13ce66;max-width:540px;">
+      <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+        <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon">
+          <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z"
+          />
+        </svg>
+        <span class="sib-form-message-panel__inner-text">
+                          Thanks for subscribing. You&#039;ll receive our next monthly newsletter.
+                      </span>
+      </div>
+    </div>
+    <div></div>
+    <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-width:0px; border-color:#C0CCD9; border-style:solid;">
+      <form id="sib-form" method="POST" action="https://64b3a32b.sibforms.com/serve/MUIEAHgCpQyDtng8Cr-oUnsCVWSvlvQkmuBfoV8Ifx60L2czw3_fqH6Llv-ESLS3pzE6PFTliQgWEZ4XXhi14IW6TbdT5Uzs8k4nnelQ586Rx-1ELFbA1rnLROepFmmlbjXAWKKlgmJAgtOyf7g7il0YraC7-EEjPQNKZ7GB5WQjvkYF3d8vixBKsQaxT1UJD06Lj4BpcIuIVcP6"
+        data-type="subscription">
+        <div style="padding: 16px 0;">
+          <div class="sib-form-block" style="font-size:32px; text-align:center; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;">
+            <p><strong>Subscribe</strong></p>
+          </div>
+        </div>
+        <div style="padding: 16px 0;">
+          <div class="sib-form-block" style="font-size:16px; text-align:center; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;">
+            <div class="sib-text-form-block">
+              <p>Get a monthly review on the best books for developers!</p>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 16px 0;">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+                <div class="entry__field">
+                  <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="Your e-mail" data-required="true" required />
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 16px 0;">
+          <div class="sib-form-block" style="text-align: center">
+            <button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:16px; text-align:center; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#FFFFFF; background-color:#669ef2; border-radius:3px; border-width:0px;"
+              form="sib-form" type="submit">
+              <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512">
+                <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"
+                />
+              </svg>
+              Sign up for free
+            </button>
+          </div>
+        </div>
+        <input type="text" name="email_address_check" value="" class="input--hidden">
+        <input type="hidden" name="locale" value="en">
+      </form>
+    </div>
+  </div>
+</div>
+<!-- END - We recommend to place the below code where you want the form in your website html  -->
+<!-- START - We recommend to place the below code in footer or bottom of your website html  -->
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+  window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
+  window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+  window.translation = {
+    common: {
+      selectedList: '{quantity} list selected',
+      selectedLists: '{quantity} lists selected'
+    }
+  };
+  var AUTOHIDE = Boolean(0);
+</script>
+<script src="https://sibforms.com/forms/end-form/build/main.js">
+</script>
+<!-- END - We recommend to place the above code in footer or bottom of your website html  -->
+<!-- End Sendinblue Form -->
+    <hr>
+<aside id="comments" class="disqus">
+  <h3 class="txt-center"><i class="fa fa-comments"></i> Comments</h3>
+  <hr>
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_identifier = '/effective-stl';
+    var disqus_title = "Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library by Scott Meyers";
+    var disqus_url = 'https://devreads.sandordargo.com/effective-stl/';
+    /*var disqus_developer = 1;*/
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>
+    Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
+  </noscript>
+</aside>
+</article>
+    </main>
+<footer class="footer">
+  <div class="container">
+    <ul class="icons">
+      <li>
+        <a href="https://github.com/sandordargo/" class="icon-github" target="_blank">
+          <i class="fa fa-github"></i>
+        </a>
+      </li>
+<!--       <li>
+        <a href="" class="icon-facebook" target="_blank">
+          <i class="fa fa-facebook"></i>
+        </a>
+      </li>
+ -->      <li>
+        <a href="https://twitter.com/TheDevReads" class="icon-twitter" target="_blank">
+          <i class="fa fa-twitter"></i>
+        </a>
+      </li>
+<!--       <li>
+        <a href="" class="icon-instagram" target="_blank">
+          <i class="fa fa-instagram"></i>
+        </a>
+      </li> -->
+      <li>
+        <a href="https://www.linkedin.com/in/sandor-dargo/" class="icon-linkedin" target="_blank">
+          <i class="fa fa-linkedin"></i>
+        </a>
+      </li>
+    </ul>
+    <p>
+      <q>Reading must become as natural as eating and breathing to you. It’s not something you do because you feel like it, but because it’s a reflex, a default.</q>
+      <small>– Ryan Holiday</small>
+    </p>
+    <small class="clearfix">
+      Made with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+    </small>
+  </div>
+</footer>
+<div id="modalSearch" class="modal">
+  <div class="modal__overlay"></div>
+  <div class="modal__content">
+    <a href="#!" class="modal-close" data-modal-close>&times;</a>
+    <div class="search-container">
+      <input type="text" id="search-input" placeholder="Search in 102 articles">
+      <ul id="results-container"></ul>
+    </div>
+  </div>
+</div>
+<script defer=true src="/assets/js/main.js"></script>
+  </body>
+</html>

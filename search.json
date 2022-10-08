@@ -1,0 +1,819 @@
+[
+  
+    {
+      "title"    : "The Battle Hardened Developer by Fiodar Sazanavets",
+      "category" : "books",
+      "tags"     : "books, timemanagement, productivity, and selfhelp",
+      "url"      : "/battle-hardened-developer/",
+      "date"     : "2022-10-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Thinking, Fast and Slow by Daniel Kahneman",
+      "category" : "books",
+      "tags"     : "books, watercooler, economics, and psychology",
+      "url"      : "/thinking-fast-and-slow-by-daniel-kahneman/",
+      "date"     : "2022-09-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Hands-On Design Patterns with C++ by Fedor Pikus",
+      "category" : "books",
+      "tags"     : "books, c++, designpatterns, and architecture",
+      "url"      : "/hands-on-design-patterns-by-fedor-pikus/",
+      "date"     : "2022-07-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Evolution of Cooperation by Robert Axelrod",
+      "category" : "books",
+      "tags"     : "books, watercooler, strategy, and cooperation",
+      "url"      : "/evolution-of-cooperation/",
+      "date"     : "2022-06-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Tech Resume Inside Out by Gergely Orosz",
+      "category" : "books",
+      "tags"     : "books, watercooler, cv, and resume",
+      "url"      : "/the-tech-resume-by-gergely-orosz/",
+      "date"     : "2022-05-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Goal: A Process Of Ongoing Improvement by Eliyahu M. Goldratt",
+      "category" : "books",
+      "tags"     : "books, watercooler, and management",
+      "url"      : "/the-goal-a-process-of-ongoing-improvement-by-eliyahu-m-goldratt/",
+      "date"     : "2022-04-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory",
+      "category" : "books",
+      "tags"     : "books, watercooler, cpp, and bestpractices",
+      "url"      : "/beautiful-cpp-by-kate-gregory-and-guy-davidson/",
+      "date"     : "2022-04-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Beyond Order: 12 more rules for life by Jordan B. Peterson",
+      "category" : "books",
+      "tags"     : "books, watercooler, selfimprovement, and psychology",
+      "url"      : "/beyond-order-by-jordan-b-peterson/",
+      "date"     : "2022-03-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Secondhand Time: The Last of the Soviets by Svetlana Alexievich",
+      "category" : "books",
+      "tags"     : "books and history",
+      "url"      : "/secondhand-time-by-svetlana-alexievich/",
+      "date"     : "2022-03-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "System Design Interview: An insider&#39;s guide by Alex Xu",
+      "category" : "books",
+      "tags"     : "books, career, interview, and systemdesign",
+      "url"      : "/system-design-interview-by-alex-xu/",
+      "date"     : "2022-02-19 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Gift: 12 Lessons to Save Your Life by Dr. Edith Eva Eger",
+      "category" : "books",
+      "tags"     : "books, history, selfimprovement, and psychology",
+      "url"      : "/the-gift-by-dr-edith-eger/",
+      "date"     : "2022-02-05 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Choice: Embrace the Possible by Dr. Edith Eva Eger",
+      "category" : "books",
+      "tags"     : "books, history, selfimprovement, and psychology",
+      "url"      : "/the-choice-by-edith-eger/",
+      "date"     : "2022-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Zen and The Art of Motorcycle Maintenance by Robert Pirsig",
+      "category" : "books",
+      "tags"     : "books, watercooler, philosophy, and quality",
+      "url"      : "/zen-and-the-art-of-motorcycle-maintenance-by-robert-pirsig/",
+      "date"     : "2022-01-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The best 8 books I read in 2021",
+      "category" : "books",
+      "tags"     : "books, watercooler, selfimprovement, and hobby",
+      "url"      : "/top-8-books-i-read-in-2021/",
+      "date"     : "2021-12-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "How to Measure Anything: Finding the Value of Intangibles in Business by Douglas W. Hubbard",
+      "category" : "books",
+      "tags"     : "books, business, risk, and measurement",
+      "url"      : "/how-to-measure-anything/",
+      "date"     : "2021-12-11 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Courage Is Calling: Fortune Favors The Brave by Ryan Holiday",
+      "category" : "books",
+      "tags"     : "books, stoicism, and courage",
+      "url"      : "/courage-is-calling-ryan-holiday/",
+      "date"     : "2021-11-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Ape That Understood The Universe by Steve Stewart-Williams",
+      "category" : "books",
+      "tags"     : "books, learning, self-improvement, and finances",
+      "url"      : "/the-ape-that-understood-the-universe/",
+      "date"     : "2021-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Science, Strategy and War: The Strategic Theory of John Boyd by Frans Osinga",
+      "category" : "books",
+      "tags"     : "books, watercooler, history, and management",
+      "url"      : "/science-strategy-and-war-by-frans-osinga/",
+      "date"     : "2021-10-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Beginning of Infinity by David Deutsch",
+      "category" : "books",
+      "tags"     : "books, watercooler, and history",
+      "url"      : "/the-beginning-of-infinity-by-david-deutsch/",
+      "date"     : "2021-09-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Unicorn Project by Gene Kim",
+      "category" : "books",
+      "tags"     : "books, watercooler, and management",
+      "url"      : "/the-unicorn-project-by-gene-kim/",
+      "date"     : "2021-09-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Phoenix Project by Gene Kim",
+      "category" : "books",
+      "tags"     : "books, watercooler, and management",
+      "url"      : "/the-phoenix-project-by-gene-kim/",
+      "date"     : "2021-08-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Boyd: The Fighter Pilot Who Changed the Art of War by Robert Coram",
+      "category" : "books",
+      "tags"     : "books, watercooler, management, and biography",
+      "url"      : "/boyd-by-robert-coram/",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Scrum: The Art of Doing Twice the Work in Half the Time by Jeff Sutherland",
+      "category" : "books",
+      "tags"     : "books, watercooler, agile, and projectmanagement",
+      "url"      : "/scrum-by-jeff-sutherland/",
+      "date"     : "2021-07-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Richest Man in Babylon by George S Clason",
+      "category" : "books",
+      "tags"     : "books, watercooler, history, and finance",
+      "url"      : "/the-richest-man-in-babylon/",
+      "date"     : "2021-07-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The 4 C&#39;s formula by Dan Sullivan",
+      "category" : "books",
+      "tags"     : "books, watercooler, and selfdevelopment",
+      "url"      : "/4c-formula-by-dan-sullivan/",
+      "date"     : "2021-06-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "C++ Best Practices by Jason Turner",
+      "category" : "books",
+      "tags"     : "books, watercooler, cpp, and bestpractices",
+      "url"      : "/cpp-best-practices-by-jason-turner/",
+      "date"     : "2021-06-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Big Leap: Conquer Your Hidden Fear and Take Life to the Next Level by Gay Hendricks",
+      "category" : "books",
+      "tags"     : "books, watercooler, selfdevelopment, and psychology",
+      "url"      : "/the-big-leap-by-gay-hendricks/",
+      "date"     : "2021-05-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Soft Skills: The Software Developer&#39;s Life Manual (Second edition) by John Sonmez",
+      "category" : "books",
+      "tags"     : "books, watercooler, and career",
+      "url"      : "/soft-skills-by-john-sonmez/",
+      "date"     : "2021-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "How to Talk so Little Kids Will Listen by Joanna Faber and Julie King",
+      "category" : "books",
+      "tags"     : "books, watercooler, parenting, and children",
+      "url"      : "/how-to-talk-so-little-kids-will-listen/",
+      "date"     : "2021-04-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "C++ 20: Get the details by Rainer Grimm",
+      "category" : "books",
+      "tags"     : "books, watercooler, cpp, and cpp20",
+      "url"      : "/cpp20-get-the-details-rainer-grimm/",
+      "date"     : "2021-04-03 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Skin in the Game: Hidden Asymmetries in Daily Life by Nassim Taleb",
+      "category" : "books",
+      "tags"     : "books, watercooler, personaldevelopment, and riskmanagement",
+      "url"      : "/skin-in-the-game-by-nassim-taleb/",
+      "date"     : "2021-03-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Clean Agile: Back to Basics by Robert C. Martin",
+      "category" : "books",
+      "tags"     : "books, watercooler, agile, and projectmanagement",
+      "url"      : "/clean-agile-by-uncle-bob/",
+      "date"     : "2021-02-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "What Does This Button Do?: An Autobiography by Bruce Dickinson",
+      "category" : "books",
+      "tags"     : "books, watercooler, rocknroll, and personalgrowth",
+      "url"      : "/what-does-this-button-do-bruce-dickinson/",
+      "date"     : "2021-02-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Refactoring for Software Design Smells",
+      "category" : "books",
+      "tags"     : "books, architecture, design, and watercooler",
+      "url"      : "/refactoring-for-software-design-smells/",
+      "date"     : "2021-01-30 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Awaken the giant within by Tony Robbins",
+      "category" : "books",
+      "tags"     : "books, watercooler, selfimprovement, and selfhelp",
+      "url"      : "/awaken-the-giant-within/",
+      "date"     : "2021-01-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Good to Great: Why Some Companies Make the Leap...and Others Don&#39;t by Jim Collins",
+      "category" : "books",
+      "tags"     : "books, business, selfimprovement, and watercooler",
+      "url"      : "/good-to-great-by-jim-collins/",
+      "date"     : "2020-12-26 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The best 9 books I read in 2020",
+      "category" : "books",
+      "tags"     : "books, watercooler, selfimprovement, and hobby",
+      "url"      : "/best-9-books-2020/",
+      "date"     : "2020-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Emergent Design: The Evolutionary Nature of Professional Software Development by Scott Bain",
+      "category" : "dev",
+      "tags"     : "architecture, design, books, patterns, and designpatterns",
+      "url"      : "/emergent-design/",
+      "date"     : "2020-11-28 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "12 Rules for Life - An Antidote to Chaos by Jordan Peterson",
+      "category" : "books",
+      "tags"     : "books, life, rules, and watercooler",
+      "url"      : "/12-rules-for-life/",
+      "date"     : "2020-11-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Don&#39;t Make Me Think by Steve Krug",
+      "category" : "books",
+      "tags"     : "books, learning, webdev, and philosophy",
+      "url"      : "/dont-make-me-think-by-steve-krug/",
+      "date"     : "2020-11-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Personality Isn&#39;t Permanent by Benjamin Hardy",
+      "category" : "books",
+      "tags"     : "books, selfimprovement, psychology, and watercooler",
+      "url"      : "/personality-is-not-permanent/",
+      "date"     : "2020-09-16 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library by Scott Meyers",
+      "category" : "books",
+      "tags"     : "books, cpp, stl, and watercooler",
+      "url"      : "/effective-stl/",
+      "date"     : "2020-08-26 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "See You At The Top by Zig Ziglar",
+      "category" : "books",
+      "tags"     : "books, selfimprovement, and watercooler",
+      "url"      : "/see-you-at-the-top-by-zig-ziglar/",
+      "date"     : "2020-08-05 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Code: The Hidden Language of Computer Hardware and Software by Charles Petzold",
+      "category" : "books",
+      "tags"     : "books, history, computerscience, and watercooler",
+      "url"      : "/code-the-hidden-language/",
+      "date"     : "2020-07-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Sapiens: A Brief History Of Humankind by Yuval Noah Harari",
+      "category" : "books",
+      "tags"     : "books, history, and future",
+      "url"      : "/sapiens-by-harari/",
+      "date"     : "2020-06-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Functional Programming in C++ by Ivan Cukic",
+      "category" : "books",
+      "tags"     : "books, cpp, functional, and watercooler",
+      "url"      : "/functional-programming-in-cpp/",
+      "date"     : "2020-05-28 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Power of Habit by Charles Duhigg",
+      "category" : "books",
+      "tags"     : "books, habits, watercooler, and selfimprovement",
+      "url"      : "/the-power-of-habit/",
+      "date"     : "2020-05-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Real-World Bug Hunting by Peter Yarowski",
+      "category" : "books",
+      "tags"     : "books, hacking, and security",
+      "url"      : "/read-world-bug-hunting/",
+      "date"     : "2020-04-15 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Extreme Ownership by Jocko Willink and Leif Babin",
+      "category" : "books",
+      "tags"     : "books, leadership, and management",
+      "url"      : "/extreme-ownership/",
+      "date"     : "2020-03-25 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Java by Comparison by Simon Harrer, Jörg Lenhard, Linus Dietz",
+      "category" : "books",
+      "tags"     : "books, java, beginners, and watercooler",
+      "url"      : "/java-by-comparison/",
+      "date"     : "2020-03-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Rational Optimist: How Prosperity Evolves by Matt Ridley",
+      "category" : "books",
+      "tags"     : "books, society, optimism, and watercooler",
+      "url"      : "/the-rational-optimist/",
+      "date"     : "2020-02-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Your Code as a Crime Scene and Software Design X-Rays by Adam Tornhill",
+      "category" : "books",
+      "tags"     : "watercooler, books, cleancode, and refactoring",
+      "url"      : "/crime-scene-and-x-ray/",
+      "date"     : "2020-01-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Art of Unit Testing by Roy Osherove",
+      "category" : "books",
+      "tags"     : "books, watercooler, tdd, and testing",
+      "url"      : "/the-art-of-unit-testing/",
+      "date"     : "2020-01-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The best 8 books I read this year ",
+      "category" : "books",
+      "tags"     : "books, watercooler, self-learning, and hobby",
+      "url"      : "/top-8-books-of-2019/",
+      "date"     : "2019-12-04 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Stillness Is The Key by Ryan Holiday",
+      "category" : "books",
+      "tags"     : "books, watercooler, and stoic",
+      "url"      : "/stillness-is-the-key/",
+      "date"     : "2019-11-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Smartcuts: How Hackers, Innovators, and Icons Accelerate Success by Shane Snow",
+      "category" : "books",
+      "tags"     : "books, self-improvement, and career",
+      "url"      : "/smartcuts/",
+      "date"     : "2019-10-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Legacy Code Programmer&#39;s Toolbox by Jonathan Boccara",
+      "category" : "books",
+      "tags"     : "books, refactoring, and legacycode",
+      "url"      : "/the-legacy-code-programmers-toolbox/",
+      "date"     : "2019-10-02 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Drive: The Surprising Truth What Motivates by Daniel H. Pink",
+      "category" : "books",
+      "tags"     : "books, self-improvement, and management",
+      "url"      : "/drive/",
+      "date"     : "2019-09-11 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Never split the difference: Negotiating As If Your Life Depended On It by Christopher Voss",
+      "category" : "books",
+      "tags"     : "books and negotiation",
+      "url"      : "/never-split-the-difference/",
+      "date"     : "2019-08-21 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Driving Technical Change by Terrence Ryan",
+      "category" : "books",
+      "tags"     : "books, dev, management, and change",
+      "url"      : "/driving-technical-change/",
+      "date"     : "2019-07-31 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The C++ Standard Library: A Tutorial and Reference by Nicolai Josuttis",
+      "category" : "dev",
+      "tags"     : "cpp, stl, books, and review",
+      "url"      : "/cpp-standard-library-a-tutorial-and-reference/",
+      "date"     : "2019-07-10 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Millionaire Fastlane by MJ DeMarco",
+      "category" : "books",
+      "tags"     : "books, finance, and self-improvement",
+      "url"      : "/millionaire-fastlane/",
+      "date"     : "2019-06-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Obstacle Is The Way by Ryan Holiday",
+      "category" : "books",
+      "tags"     : "books, stoic, philosophy, and life guide",
+      "url"      : "/the-obstacle-is-the-way/",
+      "date"     : "2019-05-30 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Rome&#39;s Last Citizen by Rob Goodman and Jimmy Sonni",
+      "category" : "books",
+      "tags"     : "books, stoicism, and history",
+      "url"      : "/romes-last-citizen/",
+      "date"     : "2019-05-08 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The Compound Effect by Darren Hardy",
+      "category" : "books",
+      "tags"     : "books and self-improvement",
+      "url"      : "/the-compound-effect/",
+      "date"     : "2019-04-17 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Effective Modern C++ by Scott Meyers",
+      "category" : "books",
+      "tags"     : "books, cpp, and advanced",
+      "url"      : "/effective-modern-cpp/",
+      "date"     : "2019-03-27 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Code Ahead by Yegor Bugayenko",
+      "category" : "books",
+      "tags"     : "books, coding, and management",
+      "url"      : "/code-ahead/",
+      "date"     : "2019-03-06 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The Manager&#39;s Path by Camille Fournier",
+      "category" : "books",
+      "tags"     : "books, self-improvement, and management",
+      "url"      : "/the-managers-path/",
+      "date"     : "2019-02-13 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Optimized C++ by Kurt Gunteroth",
+      "category" : "books",
+      "tags"     : "books, cpp, and optimization",
+      "url"      : "/optimized-cpp/",
+      "date"     : "2019-01-23 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ryan Holiday: Perennial Seller",
+      "category" : "books",
+      "tags"     : "books, creation, art, and marketing",
+      "url"      : "/perennial-seller/",
+      "date"     : "2019-01-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "The best 13 books I read this year ",
+      "category" : "books",
+      "tags"     : "books, cpp, self learning, and hobby",
+      "url"      : "/the-best-13-books-i-read-this-year/",
+      "date"     : "2018-12-12 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ramit Sethi: I&#39;ll teach you how to be rich",
+      "category" : "books",
+      "tags"     : "books and finance",
+      "url"      : "/ramit-iwthtb/",
+      "date"     : "2018-11-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Nassim N. Taleb: The Black Swan",
+      "category" : "books",
+      "tags"     : "books and philosophy",
+      "url"      : "/nassim-taleb-the-black-swan/",
+      "date"     : "2018-10-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Ryan Holiday: Ego is The Enemy",
+      "category" : "books",
+      "tags"     : "books, self-improvement, and philosophy",
+      "url"      : "/ego-is-the-enemy/",
+      "date"     : "2018-10-12 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cal Newport: Deep Work",
+      "category" : "books",
+      "tags"     : "books, learning, self-improvement, and time management",
+      "url"      : "/deep-work/",
+      "date"     : "2018-09-19 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Cal Newport: So Good They Can&#39;t Ignore You",
+      "category" : "books",
+      "tags"     : "books, learning, and self-improvement",
+      "url"      : "/so-good-they-cant-ignore-you/",
+      "date"     : "2018-08-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "The 4 Hour Body by Timothy Ferriss",
+      "category" : "books",
+      "tags"     : "tim ferriss, 4hww, 4hb, and books",
+      "url"      : "/the-four-hour-body/",
+      "date"     : "2018-07-25 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Essential Skills for the Agile Developer by Alan Shalloway et al.",
+      "category" : "books",
+      "tags"     : "books, agile, and design",
+      "url"      : "/essential-skills-for-the-agile-developer/",
+      "date"     : "2018-06-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Patterns of Enterprise Application Architecture by Martin Fowler",
+      "category" : "books",
+      "tags"     : "books, architecture, and design",
+      "url"      : "/architecture-patterns/",
+      "date"     : "2018-06-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Dale Carnegie: How to Win Friends and Influence People",
+      "category" : "books",
+      "tags"     : "books, soft skills, and leadership",
+      "url"      : "/dale-carnegie-win-friends/",
+      "date"     : "2018-05-23 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "John Sonmez - The Complete Software Developer&#39;s Career Guide",
+      "category" : "books",
+      "tags"     : "books and career",
+      "url"      : "/sonmez-book/",
+      "date"     : "2018-05-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Clean Architecture: A Craftsman&#39;s Guide to Software Structure and Design",
+      "category" : "books",
+      "tags"     : "books, clean code, and architecture",
+      "url"      : "/uncle-bob-clean-architecture/",
+      "date"     : "2018-04-18 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Chris Guillebeau: Born for this - How to find the work you were meant to do",
+      "category" : "books",
+      "tags"     : "books, self-improvement, and career",
+      "url"      : "/born-for-this/",
+      "date"     : "2018-04-04 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Carl Gustav Jung: Man and His Symbols",
+      "category" : "books",
+      "tags"     : "books and psychology",
+      "url"      : "/jung-man-and-his-symbols/",
+      "date"     : "2018-03-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "8 books every junior developer should read",
+      "category" : "books",
+      "tags"     : "books, clean code, and architecture",
+      "url"      : "/most-important-books-to-start-with/",
+      "date"     : "2018-03-14 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Donald Knuth",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders_at_work_donald_knuth/",
+      "date"     : "2018-03-09 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Bernie Cosell",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-bernie-cosell/",
+      "date"     : "2018-01-31 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Fran Allen",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-fran-allen/",
+      "date"     : "2018-01-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Ken Thompson",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-ken-thompson/",
+      "date"     : "2017-12-29 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coders at work: L Peter Deutsch",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-l-peter-deutsch/",
+      "date"     : "2017-12-22 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Dan Ingalls",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-dan-ingalls/",
+      "date"     : "2017-12-08 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Guy Steele",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-guy-steele/",
+      "date"     : "2017-12-01 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Peter Norvig",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-peter-norvig/",
+      "date"     : "2017-11-17 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Simon Peyton Jones",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-simon-peyton-jones/",
+      "date"     : "2017-11-10 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Joe Armstrong",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-joe-armstrong/",
+      "date"     : "2017-11-03 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Joshua Bloch",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-joshua-bloch/",
+      "date"     : "2017-10-27 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Brendan Eich",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-brendan-eich/",
+      "date"     : "2017-10-20 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Douglas Crockford",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-douglas-crockford/",
+      "date"     : "2017-10-13 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Brad Fitzpatrick",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-brad-fitzpatrick/",
+      "date"     : "2017-10-06 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Coders at work: Jamie Zawinski",
+      "category" : "books",
+      "tags"     : "books and coders at work",
+      "url"      : "/coders-at-work-jamie-zawinski/",
+      "date"     : "2017-09-22 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "4 Hours Work Week by Timothy Ferriss",
+      "category" : "books",
+      "tags"     : "tim ferriss, 4hww, and books",
+      "url"      : "/4hww/",
+      "date"     : "2017-06-09 00:00:00 +0200"
+    } ,
+  
+    {
+      "title"    : "Ruby is the first one coming",
+      "category" : "books",
+      "tags"     : "7languages, ruby, and books",
+      "url"      : "/7-languages-7-weeks-ruby/",
+      "date"     : "2017-01-02 00:00:00 +0100"
+    } 
+  
+]

@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html class="no-js" lang="pt-br">
+  <head>
+<meta charset="utf-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="alternate" href="https://devreads.sandordargo.com" hreflang="en-US">
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="theme-color" content="#005344">
+<title>Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory | DevReads</title>
+<meta name="google-site-verification" content="zS1dSn20XtA4FJYEOQLXqI0boxZdMnJ2g3beje-cl20">
+<meta name="description" content="The best books for software developers not only about software development">
+<meta name="keywords" content="site, website, book, books, development, software, improvement, learn, learning">
+<!-- Social: Facebook / Open Graph -->
+<meta property="og:url" content="https://devreads.sandordargo.com/beautiful-cpp-by-kate-gregory-and-guy-davidson/">
+<meta property="og:title" content="Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory | DevReads">
+<meta property="og:description" content="The best books for software developers not only about software development">
+<meta property="og:site_name" content="Sandor Dargo">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:author" content="">
+<meta property="og:image" content="https://devreads.sandordargo.com">
+<!-- Social: Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@SandorDargo">
+<meta name="twitter:domain" content="https://devreads.sandordargo.com">
+<meta name="twitter:title" content="Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory | DevReads">
+<meta name="twitter:description" content="The best books for software developers not only about software development">
+<meta name="twitter:image:src" content="https://devreads.sandordargo.com">
+<!-- Favicons -->
+<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/assets/images/ico/apple-touch-icon.png">
+<link rel="shortcut icon" type="image/x-icon" href="/assets/images/ico/favicon.ico">
+<!-- rel prev and next -->
+<!-- Canonical link tag -->
+<link rel="alternate" type="application/rss+xml" title="DevReads" href="https://devreads.sandordargo.com/feed.xml">
+<link rel="stylesheet" href="/assets/css/main.css">
+<script defer=false src="/assets/js/modernizr-custom.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Website",
+  "publisher": "devreads.sandordargo.com",
+  "url": "http://devreads.sandordargo.com/",
+  "description": "The best books for software developers not only about software development"
+}
+</script>
+<script type="text/javascript">
+  var disqus_shortname = 'sandordargo-github-io',
+      baseurl          = '';
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89625019-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-89625019-2');
+</script>
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory | The Best Developer Reads</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory" />
+<meta name="author" content="Sandor Dargo" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="If you are familiar with the Pluralsight courses of Kate Gregory, you won’t be surprised by the name of this book. While many consider C++ a complex language that always results in difficult to read and to maintain code, it can be beautiful. It’s probably true that with all the coming features, the language is still getting more complex. At the same time, idiomatic modern C++ code is getting easier to write and read thanks to the new language and library features. But how to write idiomatic code? A great source of inspiration is the C++ Core Guidelines which was launched in 2015 at C++ Con. This set of guidelines is edited by Bjarne Stroustrup and Herb Sutter, but it’s open for everyone on Github to create a pull request or review them. Kate Gregory and J. Guy Davidson were so much inspired by these guidelines that they decided to write a book about them. Luckily they didn’t decide to go through all the approximately 300 guidelines, but they picked 30 that they organized into 5 groups and explained them and some related matters in detail. Their goal in sharing these 30 guidelines is not to teach you the C++ syntax but rather how to improve your style. The 5 groups are: Bikeshedding Is Bad Don’t Hurt Yourself Stop Using That Use This New Thing Properly Write Code Well By Default I think most of these titles are self-evident, except for the first. At least to me. I had to look up what bikeshedding means. It turns out that Parkinson observed that a committee whose job is to approve plans for a nuclear power plant may spend the majority of its time on relatively unimportant but easy-to-grasp issues, such as what materials to use for the staff bikeshed while neglecting the design of the power plant itself, which is far more important but also far more difficult to criticize constructively. Having a look at the rules Kate and Guy chose for this section, I still don’t understand what exactly they meant. It’s probably that unimportant issues shouldn’t bog you down. Just like a section title! ;) Apart from this section title, I think the book is very clear. And after all, not understanding the title is more about my level of English … Getting to the details Let’s have a deeper look at 4 chapters of the book. Where there is a choice, prefer default arguments over overloading I often find people mixing up the words parameters and arguments. Sometimes they don’t realize it. Sometimes they are well aware that something is probably not okay. Before they have to use the word, they slow down, they say it slowly, they look around and then they continue. I used to be like that. Reading this chapter fixes that knowledge gap for good. “Before we start, we want to remind you of the difference between a parameter and an argument: an argument is passed to a function. A function declaration includes a parameter list, of which one or more may be supplied with a default argument. There is no such thing as a default parameter.” It was worth already worth reading this chapter just for that. But there is more! F.51 is about how you should make a choice between default arguments and overloading. The story supporting this chapter is about a function called make_office() that grows in complexity over time. With the growing complexity, the number of function parameters also grows and we learn about what can go wrong. Due to the subtleties of overload resolution and unambiguity of default arguments, overloading is discouraged. One thing surprised me though. They discourage introducing enums instead of bool parameters. I find their counterexample actually more readable and I was quite convinced by Matt Godbolt’s talk that also touched this point. Still, I perfectly agree with their final conclusion. If you have a chance, instead of new overloads, extra bool or enum parameters, default arguments, prefer to introduce new functions with clear and descriptive names. Avoid trivial getters and setters In the early days of C++, it was perfectly normal to write classes that exposed all their private variables with getter and setter functions. I’m not that old, but even I saw that a lot. Moreover, I saw IDEs - mostly for Java - generating those for you. But does that help emerge proper abstraction levels and interactions between classes? I leave that here as a theoretical question. The only reason how this might help you is that you can set breakpoints with your debuggers reporting when a member is accessed or modified. As C.131 says, we should avoid trivial getters and setters. They add nothing meaningful to the interface, they are nothing but noise. If you really want to go with fully exposed members then prefer using a struct where they will be public by default and avoid adding any business logic. Otherwise, use better names than simple setters and getters. Come up with abstractions that don’t only do the trivial but ensure having proper class invariants. For example instead of void Account::setBalance(int), introduce void Account::deposit(int) and void Account::withdraw(int). Specify concepts One of the flagship features of C++20 is concepts. They let you formalize requirements towards template arguments. This is a feature that we should definitely use as much as possible. The core guidelines go as far as T.10 says that one should specify concepts for all template arguments. We should formalize how a template argument will be used, and what kind of characteristics an API, a type must have. Doing so will help the reader in two ways. First, the reader will understand easier with what kind of types a template can be used. Second, the compiler will check earlier if an argument is valid for a given template and it will generate error messages at the point of the call, not at the time of instantiation. As such, the developer will get errors in a more timely manner. Besides, the errors due to unsatisfied requirements are more readable than the good old errors of failed template instantiations. If you want to learn more about concepts check out my book on C++ Concepts. Prefer immutable to mutable data Last but not least, let’s talk about constness a bit. P.10 is about constness from a philosophical approach. By that I mean that it’s not about how and when you make variables const. It’s simply about the fact that it’s easier to reason about immutable data. You know that no matter what, it will not change. And in fact, P.10 goes only so far. On the other hand, the chapter dedicated to it goes much further. The authors suggest making objects and member functions const wherever you can. They also explain the differences between const pointers and pointers to consts. They speak about the differences between east const and const west. It’s a bit like a short version of my book How to use const in C++. In a subsequent chapter, they also discuss ES.22 which suggests not to declare a variable until you have a value to initialize it with. While this is not strongly about constness, they also show techniques for how to turn variables following the [initialize then modify anti-pattern] into const-initialized ones. Someone, it’s as easy as declaring the variable later, but you might have to add a new constructor, use a ternary operator or even immediately invoked lambda expressions. All in all, Beautiful C++ offers lots of ways to make your code more const-correct. Conclusion Beautiful C++ is a very interesting book about how to write more readable, more maintainable C++ code. You’ll find 30 handpicked guidelines from the Core Guidelines in the book. The authors explained each of those in detail how and why to apply them. If you’re looking for your first C++ book, probably this is not the one to choose. It won’t teach you the basics of the language. But it’s a perfect second book. If you follow the pieces of advice of the authors, you’ll write better code than most of your fellow developers. A highly recommended read! Connect deeper If you liked this article, please hit on the like button, subscribe to my newsletter and let’s connect on Twitter!" />
+<meta property="og:description" content="If you are familiar with the Pluralsight courses of Kate Gregory, you won’t be surprised by the name of this book. While many consider C++ a complex language that always results in difficult to read and to maintain code, it can be beautiful. It’s probably true that with all the coming features, the language is still getting more complex. At the same time, idiomatic modern C++ code is getting easier to write and read thanks to the new language and library features. But how to write idiomatic code? A great source of inspiration is the C++ Core Guidelines which was launched in 2015 at C++ Con. This set of guidelines is edited by Bjarne Stroustrup and Herb Sutter, but it’s open for everyone on Github to create a pull request or review them. Kate Gregory and J. Guy Davidson were so much inspired by these guidelines that they decided to write a book about them. Luckily they didn’t decide to go through all the approximately 300 guidelines, but they picked 30 that they organized into 5 groups and explained them and some related matters in detail. Their goal in sharing these 30 guidelines is not to teach you the C++ syntax but rather how to improve your style. The 5 groups are: Bikeshedding Is Bad Don’t Hurt Yourself Stop Using That Use This New Thing Properly Write Code Well By Default I think most of these titles are self-evident, except for the first. At least to me. I had to look up what bikeshedding means. It turns out that Parkinson observed that a committee whose job is to approve plans for a nuclear power plant may spend the majority of its time on relatively unimportant but easy-to-grasp issues, such as what materials to use for the staff bikeshed while neglecting the design of the power plant itself, which is far more important but also far more difficult to criticize constructively. Having a look at the rules Kate and Guy chose for this section, I still don’t understand what exactly they meant. It’s probably that unimportant issues shouldn’t bog you down. Just like a section title! ;) Apart from this section title, I think the book is very clear. And after all, not understanding the title is more about my level of English … Getting to the details Let’s have a deeper look at 4 chapters of the book. Where there is a choice, prefer default arguments over overloading I often find people mixing up the words parameters and arguments. Sometimes they don’t realize it. Sometimes they are well aware that something is probably not okay. Before they have to use the word, they slow down, they say it slowly, they look around and then they continue. I used to be like that. Reading this chapter fixes that knowledge gap for good. “Before we start, we want to remind you of the difference between a parameter and an argument: an argument is passed to a function. A function declaration includes a parameter list, of which one or more may be supplied with a default argument. There is no such thing as a default parameter.” It was worth already worth reading this chapter just for that. But there is more! F.51 is about how you should make a choice between default arguments and overloading. The story supporting this chapter is about a function called make_office() that grows in complexity over time. With the growing complexity, the number of function parameters also grows and we learn about what can go wrong. Due to the subtleties of overload resolution and unambiguity of default arguments, overloading is discouraged. One thing surprised me though. They discourage introducing enums instead of bool parameters. I find their counterexample actually more readable and I was quite convinced by Matt Godbolt’s talk that also touched this point. Still, I perfectly agree with their final conclusion. If you have a chance, instead of new overloads, extra bool or enum parameters, default arguments, prefer to introduce new functions with clear and descriptive names. Avoid trivial getters and setters In the early days of C++, it was perfectly normal to write classes that exposed all their private variables with getter and setter functions. I’m not that old, but even I saw that a lot. Moreover, I saw IDEs - mostly for Java - generating those for you. But does that help emerge proper abstraction levels and interactions between classes? I leave that here as a theoretical question. The only reason how this might help you is that you can set breakpoints with your debuggers reporting when a member is accessed or modified. As C.131 says, we should avoid trivial getters and setters. They add nothing meaningful to the interface, they are nothing but noise. If you really want to go with fully exposed members then prefer using a struct where they will be public by default and avoid adding any business logic. Otherwise, use better names than simple setters and getters. Come up with abstractions that don’t only do the trivial but ensure having proper class invariants. For example instead of void Account::setBalance(int), introduce void Account::deposit(int) and void Account::withdraw(int). Specify concepts One of the flagship features of C++20 is concepts. They let you formalize requirements towards template arguments. This is a feature that we should definitely use as much as possible. The core guidelines go as far as T.10 says that one should specify concepts for all template arguments. We should formalize how a template argument will be used, and what kind of characteristics an API, a type must have. Doing so will help the reader in two ways. First, the reader will understand easier with what kind of types a template can be used. Second, the compiler will check earlier if an argument is valid for a given template and it will generate error messages at the point of the call, not at the time of instantiation. As such, the developer will get errors in a more timely manner. Besides, the errors due to unsatisfied requirements are more readable than the good old errors of failed template instantiations. If you want to learn more about concepts check out my book on C++ Concepts. Prefer immutable to mutable data Last but not least, let’s talk about constness a bit. P.10 is about constness from a philosophical approach. By that I mean that it’s not about how and when you make variables const. It’s simply about the fact that it’s easier to reason about immutable data. You know that no matter what, it will not change. And in fact, P.10 goes only so far. On the other hand, the chapter dedicated to it goes much further. The authors suggest making objects and member functions const wherever you can. They also explain the differences between const pointers and pointers to consts. They speak about the differences between east const and const west. It’s a bit like a short version of my book How to use const in C++. In a subsequent chapter, they also discuss ES.22 which suggests not to declare a variable until you have a value to initialize it with. While this is not strongly about constness, they also show techniques for how to turn variables following the [initialize then modify anti-pattern] into const-initialized ones. Someone, it’s as easy as declaring the variable later, but you might have to add a new constructor, use a ternary operator or even immediately invoked lambda expressions. All in all, Beautiful C++ offers lots of ways to make your code more const-correct. Conclusion Beautiful C++ is a very interesting book about how to write more readable, more maintainable C++ code. You’ll find 30 handpicked guidelines from the Core Guidelines in the book. The authors explained each of those in detail how and why to apply them. If you’re looking for your first C++ book, probably this is not the one to choose. It won’t teach you the basics of the language. But it’s a perfect second book. If you follow the pieces of advice of the authors, you’ll write better code than most of your fellow developers. A highly recommended read! Connect deeper If you liked this article, please hit on the like button, subscribe to my newsletter and let’s connect on Twitter!" />
+<link rel="canonical" href="https://www.sandordargo.com/blog/2022/04/16/beautiful-cpp-by-kate-gregory-and-guy-davidson" />
+<meta property="og:url" content="https://www.sandordargo.com/blog/2022/04/16/beautiful-cpp-by-kate-gregory-and-guy-davidson" />
+<meta property="og:site_name" content="The Best Developer Reads" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-04-16T00:00:00+02:00" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","headline":"Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory","dateModified":"2022-04-16T00:00:00+02:00","datePublished":"2022-04-16T00:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.sandordargo.com/blog/2022/04/16/beautiful-cpp-by-kate-gregory-and-guy-davidson"},"author":{"@type":"Person","name":"Sandor Dargo"},"url":"https://www.sandordargo.com/blog/2022/04/16/beautiful-cpp-by-kate-gregory-and-guy-davidson","description":"If you are familiar with the Pluralsight courses of Kate Gregory, you won’t be surprised by the name of this book. While many consider C++ a complex language that always results in difficult to read and to maintain code, it can be beautiful. It’s probably true that with all the coming features, the language is still getting more complex. At the same time, idiomatic modern C++ code is getting easier to write and read thanks to the new language and library features. But how to write idiomatic code? A great source of inspiration is the C++ Core Guidelines which was launched in 2015 at C++ Con. This set of guidelines is edited by Bjarne Stroustrup and Herb Sutter, but it’s open for everyone on Github to create a pull request or review them. Kate Gregory and J. Guy Davidson were so much inspired by these guidelines that they decided to write a book about them. Luckily they didn’t decide to go through all the approximately 300 guidelines, but they picked 30 that they organized into 5 groups and explained them and some related matters in detail. Their goal in sharing these 30 guidelines is not to teach you the C++ syntax but rather how to improve your style. The 5 groups are: Bikeshedding Is Bad Don’t Hurt Yourself Stop Using That Use This New Thing Properly Write Code Well By Default I think most of these titles are self-evident, except for the first. At least to me. I had to look up what bikeshedding means. It turns out that Parkinson observed that a committee whose job is to approve plans for a nuclear power plant may spend the majority of its time on relatively unimportant but easy-to-grasp issues, such as what materials to use for the staff bikeshed while neglecting the design of the power plant itself, which is far more important but also far more difficult to criticize constructively. Having a look at the rules Kate and Guy chose for this section, I still don’t understand what exactly they meant. It’s probably that unimportant issues shouldn’t bog you down. Just like a section title! ;) Apart from this section title, I think the book is very clear. And after all, not understanding the title is more about my level of English … Getting to the details Let’s have a deeper look at 4 chapters of the book. Where there is a choice, prefer default arguments over overloading I often find people mixing up the words parameters and arguments. Sometimes they don’t realize it. Sometimes they are well aware that something is probably not okay. Before they have to use the word, they slow down, they say it slowly, they look around and then they continue. I used to be like that. Reading this chapter fixes that knowledge gap for good. “Before we start, we want to remind you of the difference between a parameter and an argument: an argument is passed to a function. A function declaration includes a parameter list, of which one or more may be supplied with a default argument. There is no such thing as a default parameter.” It was worth already worth reading this chapter just for that. But there is more! F.51 is about how you should make a choice between default arguments and overloading. The story supporting this chapter is about a function called make_office() that grows in complexity over time. With the growing complexity, the number of function parameters also grows and we learn about what can go wrong. Due to the subtleties of overload resolution and unambiguity of default arguments, overloading is discouraged. One thing surprised me though. They discourage introducing enums instead of bool parameters. I find their counterexample actually more readable and I was quite convinced by Matt Godbolt’s talk that also touched this point. Still, I perfectly agree with their final conclusion. If you have a chance, instead of new overloads, extra bool or enum parameters, default arguments, prefer to introduce new functions with clear and descriptive names. Avoid trivial getters and setters In the early days of C++, it was perfectly normal to write classes that exposed all their private variables with getter and setter functions. I’m not that old, but even I saw that a lot. Moreover, I saw IDEs - mostly for Java - generating those for you. But does that help emerge proper abstraction levels and interactions between classes? I leave that here as a theoretical question. The only reason how this might help you is that you can set breakpoints with your debuggers reporting when a member is accessed or modified. As C.131 says, we should avoid trivial getters and setters. They add nothing meaningful to the interface, they are nothing but noise. If you really want to go with fully exposed members then prefer using a struct where they will be public by default and avoid adding any business logic. Otherwise, use better names than simple setters and getters. Come up with abstractions that don’t only do the trivial but ensure having proper class invariants. For example instead of void Account::setBalance(int), introduce void Account::deposit(int) and void Account::withdraw(int). Specify concepts One of the flagship features of C++20 is concepts. They let you formalize requirements towards template arguments. This is a feature that we should definitely use as much as possible. The core guidelines go as far as T.10 says that one should specify concepts for all template arguments. We should formalize how a template argument will be used, and what kind of characteristics an API, a type must have. Doing so will help the reader in two ways. First, the reader will understand easier with what kind of types a template can be used. Second, the compiler will check earlier if an argument is valid for a given template and it will generate error messages at the point of the call, not at the time of instantiation. As such, the developer will get errors in a more timely manner. Besides, the errors due to unsatisfied requirements are more readable than the good old errors of failed template instantiations. If you want to learn more about concepts check out my book on C++ Concepts. Prefer immutable to mutable data Last but not least, let’s talk about constness a bit. P.10 is about constness from a philosophical approach. By that I mean that it’s not about how and when you make variables const. It’s simply about the fact that it’s easier to reason about immutable data. You know that no matter what, it will not change. And in fact, P.10 goes only so far. On the other hand, the chapter dedicated to it goes much further. The authors suggest making objects and member functions const wherever you can. They also explain the differences between const pointers and pointers to consts. They speak about the differences between east const and const west. It’s a bit like a short version of my book How to use const in C++. In a subsequent chapter, they also discuss ES.22 which suggests not to declare a variable until you have a value to initialize it with. While this is not strongly about constness, they also show techniques for how to turn variables following the [initialize then modify anti-pattern] into const-initialized ones. Someone, it’s as easy as declaring the variable later, but you might have to add a new constructor, use a ternary operator or even immediately invoked lambda expressions. All in all, Beautiful C++ offers lots of ways to make your code more const-correct. Conclusion Beautiful C++ is a very interesting book about how to write more readable, more maintainable C++ code. You’ll find 30 handpicked guidelines from the Core Guidelines in the book. The authors explained each of those in detail how and why to apply them. If you’re looking for your first C++ book, probably this is not the one to choose. It won’t teach you the basics of the language. But it’s a perfect second book. If you follow the pieces of advice of the authors, you’ll write better code than most of your fellow developers. A highly recommended read! Connect deeper If you liked this article, please hit on the like button, subscribe to my newsletter and let’s connect on Twitter!","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+  </head>
+  <body class=" beautiful-cpp-by-kate-gregory-and-guy-davidson">
+    <header class="header">
+  <div class="container">
+    <h1><a href="/"><strong>DevReads</strong>.sandordargo.com</a></h1>
+    <nav class="navbar">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="#!" data-modal="modalSearch"><i class="fa fa-search"></i></a></li>
+       </ul>
+    </nav>
+  </div>
+</header>
+    <main class="wrapper container" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+      <article class="post" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+  <header class="post-header">
+    <h1>Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory</h1>
+    <div class="post-meta">
+      <time datetime="2015-10-13">
+        <i class="fa fa-calendar-o"></i> <time datetime="2022-04-16"> 2022-04-16
+      </time>
+      <span>
+        <i class="fa fa-comments"></i> <a href="/beautiful-cpp-by-kate-gregory-and-guy-davidson/#disqus_thread" data-disqus-identifier="/beautiful-cpp-by-kate-gregory-and-guy-davidson">Leave a comment</a>
+      </span>
+      <span>
+        <i class="fa fa-folder-open-o"></i> 
+      </span>
+    </div>
+  </header>
+  <p>If you are familiar with the <a href="https://www.pluralsight.com/authors/kate-gregory">Pluralsight courses of Kate Gregory</a>, you won’t be surprised by the name of this book. While many consider C++ a complex language that always results in difficult to read and to maintain code, it can be beautiful. It’s probably true that with all the coming features, the language is still getting more complex. At the same time, idiomatic modern C++ code is getting easier to write and read thanks to the new language and library features.</p>
+<p>But how to write idiomatic code?</p>
+<p>A great source of inspiration is the <a href="https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines">C++ Core Guidelines</a> which was launched in 2015 at C++ Con. This set of guidelines is edited by <a href="https://www.stroustrup.com/">Bjarne Stroustrup</a> and <a href="https://herbsutter.com/">Herb Sutter</a>, but it’s open for everyone on <a href="https://github.com/isocpp/CppCoreGuidelines">Github</a> to create a pull request or review them.</p>
+<p><a href="https://twitter.com/gregcons">Kate Gregory</a> and <a href="https://twitter.com/hatcat01">J. Guy Davidson</a> were so much inspired by these guidelines that <a href="https://www.amazon.com/Beautiful-Core-Guidelines-Writing-Clean/dp/0137647840?&amp;_encoding=UTF8&amp;tag=sandordargo-20&amp;linkCode=ur2&amp;linkId=4a574de3a8d52ce616b3bdddd26e0c8c&amp;camp=1789&amp;creative=9325">they decided to write a book about them</a>. Luckily they didn’t decide to go through all the approximately 300 guidelines, but they picked 30 that they organized into 5 groups and explained them and some related matters in detail. Their goal in sharing these 30 guidelines is not to teach you the C++ syntax but rather how to improve your style.</p>
+<p>The 5 groups are:</p>
+<ul>
+  <li>Bikeshedding Is Bad</li>
+  <li>Don’t Hurt Yourself</li>
+  <li>Stop Using That</li>
+  <li>Use This New Thing Properly</li>
+  <li>Write Code Well By Default</li>
+</ul>
+<p>I think most of these titles are self-evident, except for the first.</p>
+<p>At least to me.</p>
+<p>I had to look up what bikeshedding means. It turns out that Parkinson observed that a committee whose job is to approve plans for a nuclear power plant may spend the majority of its time on relatively unimportant but easy-to-grasp issues, such as what materials to use for the staff bikeshed while neglecting the design of the power plant itself, which is far more important but also far more difficult to criticize constructively.</p>
+<p>Having a look at the rules Kate and Guy chose for this section, I still don’t understand what exactly they meant. It’s probably that unimportant issues shouldn’t bog you down.</p>
+<p>Just like a section title! ;)</p>
+<p>Apart from this section title, I think the book is very clear. And after all, not understanding the title is more about my level of English …</p>
+<h2 id="getting-to-the-details">Getting to the details</h2>
+<p>Let’s have a deeper look at 4 chapters of the book.</p>
+<h3 id="where-there-is-a-choice-prefer-default-arguments-over-overloading">Where there is a choice, prefer default arguments over overloading</h3>
+<p>I often find people mixing up the words <em>parameters</em> and <em>arguments</em>. Sometimes they don’t realize it. Sometimes they are well aware that something is probably not okay. Before they have to use the word, they slow down, they say it slowly, they look around and then they continue. I used to be like that.</p>
+<p>Reading this chapter fixes that knowledge gap for good.</p>
+<blockquote>
+  <p><em>“Before we start, we want to remind you of the difference between a parameter and an argument: an argument is passed to a function. A function declaration includes a parameter list, of which one or more may be supplied with a default argument. There is no such thing as a default parameter.”</em></p>
+</blockquote>
+<p>It was worth already worth reading this chapter just for that. But there is more!</p>
+<p><a href="https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#f51-where-there-is-a-choice-prefer-default-arguments-over-overloading">F.51</a> is about how you should make a choice between default arguments and overloading. The story supporting this chapter is about a function called <code>make_office()</code> that grows in complexity over time. With the growing complexity, the number of function parameters also grows and we learn about what can go wrong. Due to the subtleties of overload resolution and unambiguity of default arguments, overloading is discouraged.</p>
+<p>One thing surprised me though. They discourage introducing enums instead of <code>bool</code> parameters. I find their counterexample actually more readable and I was quite convinced by <a href="https://youtu.be/nLSm3Haxz0I?t=1110">Matt Godbolt’s talk that also touched this point</a>.</p>
+<p>Still, I perfectly agree with their final conclusion. If you have a chance, instead of new overloads, extra <code>bool</code> or <code>enum</code> parameters, default arguments, prefer to introduce new functions with clear and descriptive names.</p>
+<h3 id="avoid-trivial-getters-and-setters">Avoid trivial getters and setters</h3>
+<p>In the early days of C++, it was perfectly normal to write classes that exposed all their private variables with getter and setter functions. I’m not that old, but even I saw that a lot. Moreover, I saw IDEs - mostly for Java - generating those for you.</p>
+<p>But does that help emerge proper abstraction levels and interactions between classes?</p>
+<p>I leave that here as a theoretical question.</p>
+<p>The only reason how this might help you is that you can set breakpoints with your debuggers reporting when a member is accessed or modified.</p>
+<p>As <a href="https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c131-avoid-trivial-getters-and-setters">C.131 says, we should avoid trivial getters and setters</a>. They add nothing meaningful to the interface, they are nothing but noise.</p>
+<p>If you really want to go with fully exposed members then prefer using a struct where they will be public by default and avoid adding any business logic.</p>
+<p>Otherwise, use better names than simple setters and getters. Come up with abstractions that don’t only do the trivial but ensure having proper class invariants. For example instead of <code>void Account::setBalance(int)</code>, introduce <code>void Account::deposit(int)</code> and <code>void Account::withdraw(int)</code>.</p>
+<h3 id="specify-concepts">Specify concepts</h3>
+<p>One of the flagship features of C++20 is concepts. They let you formalize requirements towards template arguments. This is a feature that we should definitely use as much as possible. The core guidelines go as far as <a href="https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#t10-specify-concepts-for-all-template-arguments">T.10</a> says that one should specify concepts for <strong>all</strong> template arguments.</p>
+<p>We should formalize how a template argument will be used, and what kind of characteristics an API, a type must have. Doing so will help the reader in two ways.</p>
+<p>First, the reader will understand easier with what kind of types a template can be used. Second, the compiler will check earlier if an argument is valid for a given template and it will generate error messages at the point of the call, not at the time of instantiation. As such, the developer will get errors in a more timely manner. Besides, the errors due to unsatisfied requirements are more readable than the good old errors of failed template instantiations.</p>
+<p>If you want to learn more about concepts check out my book on <a href="https://leanpub.com/cppconcepts/">C++ Concepts</a>.</p>
+<h3 id="prefer-immutable-to-mutable-data">Prefer immutable to mutable data</h3>
+<p>Last but not least, let’s talk about constness a bit.</p>
+<p><a href="https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#p10-prefer-immutable-data-to-mutable-data">P.10</a> is about constness from a philosophical approach. By that I mean that it’s not about how and when you make variables <code>const</code>. It’s simply about the fact that it’s easier to reason about immutable data. You know that no matter what, it will not change.</p>
+<p>And in fact, <a href="https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#p10-prefer-immutable-data-to-mutable-data">P.10</a> goes only so far. On the other hand, the chapter dedicated to it goes much further. The authors suggest making objects and member functions <code>const</code> <strong>wherever</strong> you can. They also explain the differences between <code>const</code> pointers and pointers to <code>const</code>s. They speak about the differences between <em>east <code>const</code></em> and <em><code>const</code> west</em>.</p>
+<p>It’s a bit like a short version of my book <a href="https://leanpub.com/cppconst/">How to use <code>const</code> in C++</a>.</p>
+<p>In a subsequent chapter, they also discuss <a href="https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#es22-dont-declare-a-variable-until-you-have-a-value-to-initialize-it-with">ES.22</a> which suggests <em>not to declare a variable until you have a value to initialize it with</em>. While this is not strongly about constness, they also show techniques for how to turn variables following the [initialize then modify anti-pattern] into <code>const</code>-initialized ones. Someone, it’s as easy as declaring the variable later, but you might have to add a new constructor, use a ternary operator or even <a href="https://www.sandordargo.com/blog/2020/02/19/immediately-invoked-lambda-functions">immediately invoked lambda expressions</a>.</p>
+<p>All in all, <a href="https://www.amazon.com/Beautiful-Core-Guidelines-Writing-Clean/dp/0137647840?&amp;_encoding=UTF8&amp;tag=sandordargo-20&amp;linkCode=ur2&amp;linkId=4a574de3a8d52ce616b3bdddd26e0c8c&amp;camp=1789&amp;creative=9325">Beautiful C++</a> offers lots of ways to make your code more <code>const</code>-correct.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p><a href="https://www.amazon.com/Beautiful-Core-Guidelines-Writing-Clean/dp/0137647840?&amp;_encoding=UTF8&amp;tag=sandordargo-20&amp;linkCode=ur2&amp;linkId=4a574de3a8d52ce616b3bdddd26e0c8c&amp;camp=1789&amp;creative=9325">Beautiful C++</a> is a very interesting book about how to write more readable, more maintainable C++ code. You’ll find 30 handpicked guidelines from the Core Guidelines in the book. The authors explained each of those in detail how and why to apply them.</p>
+<p>If you’re looking for your first C++ book, probably this is not the one to choose. It won’t teach you the basics of the language. But it’s a perfect second book. If you follow the pieces of advice of the authors, you’ll write better code than most of your fellow developers.</p>
+<p>A highly recommended read!</p>
+<h2 id="connect-deeper">Connect deeper</h2>
+<p>If you liked this article, please</p>
+<ul>
+  <li>hit on the like button,</li>
+  <li><a href="http://eepurl.com/gvcv1j">subscribe to my newsletter</a></li>
+  <li>and let’s connect on <a href="https://twitter.com/SandorDargo">Twitter</a>!</li>
+</ul>
+  <footer class="post-footer">
+    <section class="author">
+      <h4>Sandor Dargo</h4>
+      <p>C++ Developer, writer, speaker, traveller, happy father of two</p>
+    </section>
+<aside class="share">
+  <h4>Share this.</h4>
+  <a href="http://twitter.com/share?text=Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory&amp;url=https://devreads.sandordargo.com/beautiful-cpp-by-kate-gregory-and-guy-davidson/"
+  onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+    <i class="fa fa-twitter-square"></i>
+  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://devreads.sandordargo.com/beautiful-cpp-by-kate-gregory-and-guy-davidson/"
+  onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+    <i class="fa fa-facebook-square"></i>
+  </a>
+</aside>
+   </footer>
+    <!-- Begin Sendinblue Form -->
+<!-- START - We recommend to place the below code in head tag of your website html  -->
+<style>
+  @font-face {
+    font-display: block;
+    font-family: Roboto;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
+  }
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 600;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
+  }
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 700;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
+  }
+  #sib-container input:-ms-input-placeholder {
+    text-align: left;
+    font-family: "Helvetica", sans-serif;
+    color: #c0ccda;
+  }
+  #sib-container input::placeholder {
+    text-align: left;
+    font-family: "Helvetica", sans-serif;
+    color: #c0ccda;
+  }
+  #sib-container textarea::placeholder {
+    text-align: left;
+    font-family: "Helvetica", sans-serif;
+    color: #c0ccda;
+  }
+</style>
+<link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
+<!--  END - We recommend to place the above code in head tag of your website html -->
+<!-- START - We recommend to place the below code where you want the form in your website html  -->
+<div class="sib-form" style="text-align: center;
+         background-color: transparent;                                 ">
+  <div id="sib-form-container" class="sib-form-container">
+    <div id="error-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;max-width:540px;">
+      <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+        <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon">
+          <path d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z"
+          />
+        </svg>
+        <span class="sib-form-message-panel__inner-text">
+                          Your subscription could not be saved. Please try again.
+                      </span>
+      </div>
+    </div>
+    <div></div>
+    <div id="success-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#085229; background-color:#e7faf0; border-radius:3px; border-color:#13ce66;max-width:540px;">
+      <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+        <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon">
+          <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z"
+          />
+        </svg>
+        <span class="sib-form-message-panel__inner-text">
+                          Thanks for subscribing. You&#039;ll receive our next monthly newsletter.
+                      </span>
+      </div>
+    </div>
+    <div></div>
+    <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-width:0px; border-color:#C0CCD9; border-style:solid;">
+      <form id="sib-form" method="POST" action="https://64b3a32b.sibforms.com/serve/MUIEAHgCpQyDtng8Cr-oUnsCVWSvlvQkmuBfoV8Ifx60L2czw3_fqH6Llv-ESLS3pzE6PFTliQgWEZ4XXhi14IW6TbdT5Uzs8k4nnelQ586Rx-1ELFbA1rnLROepFmmlbjXAWKKlgmJAgtOyf7g7il0YraC7-EEjPQNKZ7GB5WQjvkYF3d8vixBKsQaxT1UJD06Lj4BpcIuIVcP6"
+        data-type="subscription">
+        <div style="padding: 16px 0;">
+          <div class="sib-form-block" style="font-size:32px; text-align:center; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;">
+            <p><strong>Subscribe</strong></p>
+          </div>
+        </div>
+        <div style="padding: 16px 0;">
+          <div class="sib-form-block" style="font-size:16px; text-align:center; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;">
+            <div class="sib-text-form-block">
+              <p>Get a monthly review on the best books for developers!</p>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 16px 0;">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+                <div class="entry__field">
+                  <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="Your e-mail" data-required="true" required />
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 16px 0;">
+          <div class="sib-form-block" style="text-align: center">
+            <button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:16px; text-align:center; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#FFFFFF; background-color:#669ef2; border-radius:3px; border-width:0px;"
+              form="sib-form" type="submit">
+              <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512">
+                <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"
+                />
+              </svg>
+              Sign up for free
+            </button>
+          </div>
+        </div>
+        <input type="text" name="email_address_check" value="" class="input--hidden">
+        <input type="hidden" name="locale" value="en">
+      </form>
+    </div>
+  </div>
+</div>
+<!-- END - We recommend to place the below code where you want the form in your website html  -->
+<!-- START - We recommend to place the below code in footer or bottom of your website html  -->
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+  window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
+  window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+  window.translation = {
+    common: {
+      selectedList: '{quantity} list selected',
+      selectedLists: '{quantity} lists selected'
+    }
+  };
+  var AUTOHIDE = Boolean(0);
+</script>
+<script src="https://sibforms.com/forms/end-form/build/main.js">
+</script>
+<!-- END - We recommend to place the above code in footer or bottom of your website html  -->
+<!-- End Sendinblue Form -->
+    <hr>
+<aside id="comments" class="disqus">
+  <h3 class="txt-center"><i class="fa fa-comments"></i> Comments</h3>
+  <hr>
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_identifier = '/beautiful-cpp-by-kate-gregory-and-guy-davidson';
+    var disqus_title = "Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory";
+    var disqus_url = 'https://devreads.sandordargo.com/beautiful-cpp-by-kate-gregory-and-guy-davidson/';
+    /*var disqus_developer = 1;*/
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>
+    Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
+  </noscript>
+</aside>
+</article>
+    </main>
+<footer class="footer">
+  <div class="container">
+    <ul class="icons">
+      <li>
+        <a href="https://github.com/sandordargo/" class="icon-github" target="_blank">
+          <i class="fa fa-github"></i>
+        </a>
+      </li>
+<!--       <li>
+        <a href="" class="icon-facebook" target="_blank">
+          <i class="fa fa-facebook"></i>
+        </a>
+      </li>
+ -->      <li>
+        <a href="https://twitter.com/TheDevReads" class="icon-twitter" target="_blank">
+          <i class="fa fa-twitter"></i>
+        </a>
+      </li>
+<!--       <li>
+        <a href="" class="icon-instagram" target="_blank">
+          <i class="fa fa-instagram"></i>
+        </a>
+      </li> -->
+      <li>
+        <a href="https://www.linkedin.com/in/sandor-dargo/" class="icon-linkedin" target="_blank">
+          <i class="fa fa-linkedin"></i>
+        </a>
+      </li>
+    </ul>
+    <p>
+      <q>Reading must become as natural as eating and breathing to you. It’s not something you do because you feel like it, but because it’s a reflex, a default.</q>
+      <small>– Ryan Holiday</small>
+    </p>
+    <small class="clearfix">
+      Made with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+    </small>
+  </div>
+</footer>
+<div id="modalSearch" class="modal">
+  <div class="modal__overlay"></div>
+  <div class="modal__content">
+    <a href="#!" class="modal-close" data-modal-close>&times;</a>
+    <div class="search-container">
+      <input type="text" id="search-input" placeholder="Search in 102 articles">
+      <ul id="results-container"></ul>
+    </div>
+  </div>
+</div>
+<script defer=true src="/assets/js/main.js"></script>
+  </body>
+</html>

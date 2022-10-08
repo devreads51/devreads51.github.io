@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Best Developer Reads</title>
+    <description>The best books for software developers not only about software development</description>
+    <link>https://devreads.sandordargo.com/</link>
+    <atom:link href="https://devreads.sandordargo.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 08 Oct 2022 18:29:25 +0200</pubDate>
+    <lastBuildDate>Sat, 08 Oct 2022 18:29:25 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>The Battle Hardened Developer by Fiodar Sazanavets</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Battle-Hardened-Developer-Fiodar-Sazanavets-ebook/dp/B0BBY12KQB?&amp;amp;_encoding=UTF8&amp;amp;tag=sandordargo-20&amp;amp;linkCode=ur2&amp;amp;linkId=e0d1837a0fa4e7537b66b31b051501c6&amp;amp;camp=1789&amp;amp;creative=9325&quot;&gt;The Battle Hardened Developer&lt;/a&gt; is a very useful book - in my opinion - not only for developers. The author, &lt;a href=&quot;https://twitter.com/FSazanavets&quot;&gt;Fiodar Sazanavets&lt;/a&gt;, covers topics that are important for everyone who has an office job (even if it’s a remote one). How to restrict social media in our days, and how to create environments where we keep getting messages that improve us are key to survival and success.&lt;/p&gt; &lt;p&gt;The techniques to get into the flow and defeat procrastination are very practical. Even if you already read similar books, this is a good one that will summarize the techniques, probably...</description>
+        <pubDate>Sat, 08 Oct 2022 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/battle-hardened-developer/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/battle-hardened-developer/</guid>
+        
+        <category>books</category>
+        
+        <category>timemanagement</category>
+        
+        <category>productivity</category>
+        
+        <category>selfhelp</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Thinking, Fast and Slow by Daniel Kahneman</title>
+        <description>&lt;p&gt;Would I recommend &lt;a href=&quot;https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/?&amp;amp;_encoding=UTF8&amp;amp;tag=sandordargo-20&amp;amp;linkCode=ur2&amp;amp;linkId=9835c49cc136f50d67baaf9691dfc816&amp;amp;camp=1789&amp;amp;creative=9325&quot;&gt;Thinking, Fast and Slow&lt;/a&gt; by &lt;a href=&quot;https://en.wikipedia.org/wiki/Daniel_Kahneman&quot;&gt;Daniel Kahneman&lt;/a&gt;? It’s a very interesting book on how our thinking works and it can open up your mind about your own behaviour. But I mind you, only start reading it if you read a lot and you don’t rush to start another book anytime soon.&lt;/p&gt; &lt;p&gt;I find it very difficult to put down books. If something is really bad, I might put it down. But if I find something interesting even if it doesn’t match exactly what I was looking for, I’ll likely keep on reading.&lt;/p&gt; &lt;p&gt;This book didn’t...</description>
+        <pubDate>Sat, 03 Sep 2022 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/thinking-fast-and-slow-by-daniel-kahneman/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/thinking-fast-and-slow-by-daniel-kahneman/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>economics</category>
+        
+        <category>psychology</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Hands-On Design Patterns with C++ by Fedor Pikus</title>
+        <description>&lt;p&gt;In &lt;a href=&quot;https://www.amazon.com/Hands-Design-Patterns-reusable-maintainable/dp/1788832566?&amp;amp;_encoding=UTF8&amp;amp;tag=sandordargo-20&amp;amp;linkCode=ur2&amp;amp;linkId=30b0f28f6d2b14f4979cee40a2d91f43&amp;amp;camp=1789&amp;amp;creative=9325&quot;&gt;Hands-On Design Patterns with C++&lt;/a&gt;, the author &lt;a href=&quot;http://www.pikus.net/~pikus/physres.html&quot;&gt;Fedor Pikus&lt;/a&gt; shares the most common design patterns used in modern C++. In fact, not only design patterns but also some best practices and idioms. He doesn’t end the stories simply where the &lt;a href=&quot;https://amzn.to/36VKyO2&quot;&gt;Gang of Four Design Patterns book&lt;/a&gt; ends, but he looks deeply into the specialities of C++ implementations.&lt;/p&gt; &lt;p&gt;But what does the book cover?&lt;/p&gt; &lt;p&gt;It starts with discussing inheritance and polymorphism in general. Then it goes to detailing templates and how to do generic programming in C++. While it seems a bit strange to discuss templates right...</description>
+        <pubDate>Sat, 23 Jul 2022 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/hands-on-design-patterns-by-fedor-pikus/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/hands-on-design-patterns-by-fedor-pikus/</guid>
+        
+        <category>books</category>
+        
+        <category>c++</category>
+        
+        <category>designpatterns</category>
+        
+        <category>architecture</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>The Evolution of Cooperation by Robert Axelrod</title>
+        <description>&lt;p&gt;How to maximize the benefits of cooperation? Is it better to cooperate with others or to defect? How to decide? How to react when you’re a good person but you’re taken advantage of? Can we avoid escalation till the end?&lt;/p&gt; &lt;p&gt;These are questions that Robert Axelrod wanted to answer when he started the project that became the basis of his book &lt;a href=&quot;https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640/ref=sr_1_1?keywords=the+evolution+of+cooperation&amp;amp;qid=1654895157&amp;amp;sr=8-1&amp;amp;_encoding=UTF8&amp;amp;tag=sandordargo-20&amp;amp;linkCode=ur2&amp;amp;linkId=4bd52b92125425fea08264a1e7d27dc2&amp;amp;camp=1789&amp;amp;creative=9325&quot;&gt;The Evolution of Cooperation&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;At the core of this book, you’ll find a particular game called the Prisoner’s Dilemma. To solve the dilemma they tested several approaches against each other in multiple rounds. Approaches were submitted by students,...</description>
+        <pubDate>Sat, 11 Jun 2022 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/evolution-of-cooperation/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/evolution-of-cooperation/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>strategy</category>
+        
+        <category>cooperation</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>The Tech Resume Inside Out by Gergely Orosz</title>
+        <description>&lt;p&gt;I’ve been interested in how to write a good resume. Both because I keep one up to date and also because I saw a few ones recently as I helped my managers with technical interviews. I definitely saw bad CVs, and I didn’t feel that I saw any great ones.&lt;/p&gt; &lt;p&gt;Includes my CVs. I tried different formats, but I didn’t feel that I could pass all the info about myself that I wanted.&lt;/p&gt; &lt;p&gt;Though probably they were better than the average, at least I thought so. Thanks to &lt;a href=&quot;https://thetechresume.com/&quot;&gt;The Tech Resume&lt;/a&gt;, I’ve been able to rewrite it completely and...</description>
+        <pubDate>Sat, 21 May 2022 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/the-tech-resume-by-gergely-orosz/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/the-tech-resume-by-gergely-orosz/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>cv</category>
+        
+        <category>resume</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>The Goal: A Process Of Ongoing Improvement by Eliyahu M. Goldratt</title>
+        <description>&lt;p&gt;When a few months ago I read &lt;a href=&quot;https://devreads.sandordargo.com/the-phoenix-project-by-gene-kim/&quot;&gt;The Phoenix Project&lt;/a&gt; and &lt;a href=&quot;https://devreads.sandordargo.com/the-unicorn-project-by-gene-kim/&quot;&gt;The Unicorn Project&lt;/a&gt;, I learned that they are the modern IT-era reincarnations of &lt;a href=&quot;https://www.amazon.com/dp/B002LHRM2O?&amp;amp;_encoding=UTF8&amp;amp;tag=sandordargo-20&amp;amp;linkCode=ur2&amp;amp;linkId=f534d1875712b38f8f10c29ae1b00cda&amp;amp;camp=1789&amp;amp;creative=9325&quot;&gt;The Goal&lt;/a&gt;. It was written in a similar style in 1984, but it was targeting the manufacturing businesses with its explanation of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Theory_of_constraints&quot;&gt;theory of constraints&lt;/a&gt;. So it’s about the world of real factories, not about software factories.&lt;/p&gt; &lt;p&gt;Oh boy, I loved those books so much! Especially the &lt;a href=&quot;https://devreads.sandordargo.com/the-phoenix-project-by-gene-kim/&quot;&gt;The Phoenix Project&lt;/a&gt;! They seemed so novel, I loved the style that merged a novel with a technical book. I still love them....</description>
+        <pubDate>Sat, 30 Apr 2022 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/the-goal-a-process-of-ongoing-improvement-by-eliyahu-m-goldratt/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/the-goal-a-process-of-ongoing-improvement-by-eliyahu-m-goldratt/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>management</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory</title>
+        <description>&lt;p&gt;If you are familiar with the &lt;a href=&quot;https://www.pluralsight.com/authors/kate-gregory&quot;&gt;Pluralsight courses of Kate Gregory&lt;/a&gt;, you won’t be surprised by the name of this book. While many consider C++ a complex language that always results in difficult to read and to maintain code, it can be beautiful. It’s probably true that with all the coming features, the language is still getting more complex. At the same time, idiomatic modern C++ code is getting easier to write and read thanks to the new language and library features.&lt;/p&gt; &lt;p&gt;But how to write idiomatic code?&lt;/p&gt; &lt;p&gt;A great source of inspiration is the &lt;a href=&quot;https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines&quot;&gt;C++ Core Guidelines&lt;/a&gt;...</description>
+        <pubDate>Sat, 16 Apr 2022 00:00:00 +0200</pubDate>
+        <link>https://devreads.sandordargo.com/beautiful-cpp-by-kate-gregory-and-guy-davidson/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/beautiful-cpp-by-kate-gregory-and-guy-davidson/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>cpp</category>
+        
+        <category>bestpractices</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Beyond Order: 12 more rules for life by Jordan B. Peterson</title>
+        <description>&lt;p&gt;In his first book, &lt;em&gt;&lt;a href=&quot;https://devreads.sandordargo.com/12-rules-for-life/&quot;&gt;12 Rules for Life: An Antidote to Chaos&lt;/a&gt;&lt;/em&gt;, Jordan B Peterson focused on the consequences of too much chaos in our lives and how to make it better, how to bring our lives more into order. But we cannot simply say that order is preferable over chaos, nor the other way around. It’s the wrong way to look at it, as chaos has its merits. It also brings novelty, transformation, disruption. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;We need chaos. It’s part of the whole.&lt;/p&gt; &lt;p&gt;In his next book, &lt;em&gt;&lt;a href=&quot;https://www.amazon.com/Beyond-Order-More-Rules-Life-ebook/dp/B08NP6881K/?&amp;amp;_encoding=UTF8&amp;amp;tag=sandordargo-20&amp;amp;linkCode=ur2&amp;amp;linkId=d9275cf0e8dc877044bb960c1fb73460&amp;amp;camp=1789&amp;amp;creative=9325&quot;&gt;Beyond Order&lt;/a&gt;&lt;/em&gt;, the author focuses on the dangers of too...</description>
+        <pubDate>Sat, 26 Mar 2022 00:00:00 +0100</pubDate>
+        <link>https://devreads.sandordargo.com/beyond-order-by-jordan-b-peterson/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/beyond-order-by-jordan-b-peterson/</guid>
+        
+        <category>books</category>
+        
+        <category>watercooler</category>
+        
+        <category>selfimprovement</category>
+        
+        <category>psychology</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Secondhand Time: The Last of the Soviets by Svetlana Alexievich</title>
+        <description>&lt;p&gt;It’s very hard to start writing this blog post. I’ve been sitting in front of my laptop weeping. Like I did so many times while reading this book. I also had a feeling that “weeping” is one of the most frequent words in &lt;a href=&quot;https://www.amazon.com/gp/product/0399588825/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;amp;tag=sandordargo-20&amp;amp;creative=9325&amp;amp;linkCode=as2&amp;amp;creativeASIN=0399588825&amp;amp;linkId=9c1e270dee84b076bcd4a7c7b2fdb782&quot;&gt;Secondhand Time&lt;/a&gt;. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;First of all, the timing of this book review or the fact that I’m posting it in March, 2022 has nothing to do at all with the war raging in Ukraine and I don’t want this book to be part of any statement of political opinion on the current events.&lt;/p&gt; &lt;p&gt;It’s a quite...</description>
+        <pubDate>Sat, 05 Mar 2022 00:00:00 +0100</pubDate>
+        <link>https://devreads.sandordargo.com/secondhand-time-by-svetlana-alexievich/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/secondhand-time-by-svetlana-alexievich/</guid>
+        
+        <category>books</category>
+        
+        <category>history</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>System Design Interview: An insider's guide by Alex Xu</title>
+        <description>&lt;p&gt;Being a software engineer is special compared to many other professions in several ways. One aspect of this speciality is that you don’t just go to a job interview after polishing a bit your CV, thinking about your career and maybe reading a few interesting and professionally relevant articles.&lt;/p&gt; &lt;p&gt;Getting your next job often requires extensive learning and practice no matter what your current level is.&lt;/p&gt; &lt;p&gt;To get into good companies, often you’ll have to go through at least half a dozen interviews proving that you’re capable of doing things that you have never done since university and you’ll never...</description>
+        <pubDate>Sat, 19 Feb 2022 00:00:00 +0100</pubDate>
+        <link>https://devreads.sandordargo.com/system-design-interview-by-alex-xu/</link>
+        <guid isPermaLink="true">https://devreads.sandordargo.com/system-design-interview-by-alex-xu/</guid>
+        
+        <category>books</category>
+        
+        <category>career</category>
+        
+        <category>interview</category>
+        
+        <category>systemdesign</category>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+  </channel>
+</rss>
